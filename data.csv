@@ -1,0 +1,1429 @@
+﻿projid,external_management,client_base,risk,contract_type,Contractor_type,Delivery_model,state,jv,Sector,Profit Center Lock indicator,recur_revenue,Service_focus,Contract_type2,actual_margin,original_bid_margin,Days,start_year,Bid_margin_per_day
+1,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,3908224.61,2074454.12,304,2014," 6,824 "
+2,no,Private Sector,3,2,1,2,Ontario,no,Orange,yes,N,2,Type 2,16546602.29,17991393.86,696,2014," 25,850 "
+3,no,Public Sector,2,1,1,3,Ontario,no,Orange,no,N,3,Type 1,12939517.72,9189919.75,304,2014," 30,230 "
+4,no,Public Sector,3,1,1,3,Ontario,no,Orange,no,N,3,Type 1,17525352.48,4700813.83,751,2014," 6,259 "
+5,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,13143758.88,8847605.81,516,2014," 17,147 "
+6,no,Public Sector,2,1,1,3,Ontario,no,Orange,no,N,3,Type 1,38002811.29,34236886.6,243,2014," 140,893 "
+7,no,Public Sector,2,1,1,3,Ontario,no,Orange,no,N,3,Type 1,1925244.29,1576790.42,288,2014," 5,475 "
+8,no,Private Sector,3,2,1,1,Saskatchewan,no,Red,yes,N,4,Type 2,-175322.09,4300857.37,637,2014," 6,752 "
+9,no,Private Sector,3,2,1,1,Saskatchewan,no,Red,yes,N,4,Type 2,2918589.24,5780884.66,336,2014," 17,205 "
+10,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,5,Type 3,474778.53,332285,0,2015, -   
+11,yes,Public Sector,2,1,1,3,Ontario,no,Orange,no,N,3,Type 1,4659467.7,2958679.74,348,2014," 8,502 "
+12,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,5,Type 3,-1569290.86,4929647.3,371,2015," 13,287 "
+13,no,Private Sector,1,1,1,1,Ontario,yes,Red,yes,N,1,Type 4,9592220.32,7540450.12,506,2015," 14,902 "
+14,no,Private Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 1,300400.63,286631.05,679,2015, 422 
+15,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,5,Type 3,-122938.36,409365.15,188,2015," 2,177 "
+16,no,Private Sector,3,2,1,2,Ontario,no,Red,yes,N,1,Type 2,-584383.2,253804.14,365,2015, 695 
+17,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,5527068.59,4938056.74,534,2015," 9,247 "
+18,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,711214.15,312068.57,585,2015, 533 
+19,yes,Public Sector,3,1,1,3,Ontario,yes,Orange,no,N,3,Type 1,-9246485.54,9704225,640,2015," 15,163 "
+20,no,Private Sector,3,2,1,2,Ontario,no,Orange,yes,N,2,Type 2,2754818.63,1134314.72,672,2016," 1,688 "
+21,no,Public Sector,1,1,1,2,Ontario,yes,Orange,yes,Y,3,Type 1,36272.41,212989,841,2015, 253 
+22,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,7346.4,-96003.29,17,2015,"-5,647 "
+23,no,Private Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 1,3290314.1,-6539911.28,470,2015,"-13,915 "
+24,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1988745.76,372438.52,1370,2015, 272 
+25,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,4826004.07,3060707.01,637,2015," 4,805 "
+26,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,173753.62,634578.83,497,2015," 1,277 "
+27,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 3,2023356.58,494786.24,1206,2013, 410 
+28,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,7252005.58,6880387.07,1338,2013," 5,142 "
+29,no,Private Sector,1,1,1,1,Saskatchewan,no,Red,yes,N,5,Type 1,-399.98,197510.52,938,2013, 211 
+30,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,5,Type 3,912710.4,903883.87,1111,2013, 814 
+31,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,1,Type 3,2136073.34,7402790.47,0,2014, -   
+32,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,1,Type 3,12575408.48,18926662.27,0,2014, -   
+33,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,8,Type 2,46072.76,251922.35,1043,2014, 242 
+34,yes,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,4760772.04,22580185.9,0,2013, -   
+35,no,Public Sector,1,1,1,1,Alberta,no,Green,yes,N,7,Type 3,1180715.69,779730.88,63,2015," 12,377 "
+36,no,Public Sector,1,1,1,1,Alberta,no,Green,yes,N,7,Type 3,1716235.13,986153.96,476,2014," 2,072 "
+37,no,Public Sector,1,1,1,1,Alberta,no,Green,yes,N,7,Type 3,2442764.24,1409771.13,162,2015," 8,702 "
+38,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,9,Type 3,942326.9,0,115,2015, -   
+39,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,10,Type 3,3130043.54,0,95,2015, -   
+40,no,Public Sector,3,2,1,1,Saskatchewan,no,Red,no,N,6,Type 2,258053.59,0,463,2015, -   
+41,no,Private Sector,2,1,1,1,Saskatchewan,no,Red,yes,N,5,Type 1,23406050.04,6646510,0,2015, -   
+42,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,425497.75,1403455.6,694,2015," 2,022 "
+43,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,108629.09,47867.22,278,2015, 172 
+44,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1972580.82,692993.57,728,2015, 952 
+45,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,5,Type 1,12016037.94,6797746.84,1892,2015," 3,593 "
+46,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 1,5378351.59,-32073878.09,0,2015, -   
+47,no,Private Sector,2,1,1,1,Ontario,no,Red,no,N,5,Type 3,4843737.58,860556.01,794,2015," 1,084 "
+48,no,Private Sector,2,2,1,1,Saskatchewan,no,Red,yes,N,5,Type 2,4414999.86,1906565.87,0,2015, -   
+49,no,Private Sector,4,1,1,1,Saskatchewan,no,Red,no,N,5,Type 3,-9431753.02,29556647,797,2015," 37,085 "
+50,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,10502173.88,8555180.79,1644,2014," 5,204 "
+51,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,1667763.6,1101097.37,332,2014," 3,317 "
+52,no,Public Sector,1,1,1,1,British Columbia,no,Red,yes,N,6,Type 1,225667.85,145392.23,973,2014, 149 
+53,no,Public Sector,3,2,1,1,Ontario,no,Red,yes,N,6,Type 2,-292546.82,292068.57,1095,2012, 267 
+54,no,Public Sector,1,2,1,1,Manitoba,no,Red,yes,N,6,Type 2,-1685682.68,199438.09,1127,2013, 177 
+55,no,Public Sector,1,2,1,3,Alberta,no,Red,yes,N,6,Type 1,372001.31,-35551.03,503,2014,-71 
+56,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,3360954.05,631151.95,1427,2014, 442 
+57,no,Public Sector,3,2,1,3,British Columbia,no,Red,yes,N,6,Type 2,620332.63,635799.92,653,2013, 974 
+58,no,Public Sector,3,2,1,1,Saskatchewan,no,Red,no,N,6,Type 2,-36249.24,0,893,2014, -   
+59,no,Public Sector,1,2,1,3,Alberta,no,Red,yes,N,6,Type 1,1912572.3,-3995738.47,484,2014,"-8,256 "
+60,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,177778.73,456826.07,278,2016," 1,643 "
+61,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,275174.33,0,692,2016, -   
+62,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1322620.19,529939.93,655,2016, 809 
+63,no,Public Sector,3,2,1,1,British Columbia,no,Red,yes,N,12,Type 2,634380.31,306932.09,475,2014, 646 
+64,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,104864.08,4715.69,242,2016, 19 
+65,no,Public Sector,3,2,1,3,Alberta,no,Red,yes,N,6,Type 2,1317566.05,2000000.2,1002,2012," 1,996 "
+66,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,250417.84,327780.17,287,2016," 1,142 "
+67,no,Public Sector,3,2,1,1,British Columbia,no,Red,yes,N,6,Type 2,33944.3,16801.56,1043,2014, 16 
+68,no,Public Sector,2,2,1,1,Alberta,no,Red,yes,N,6,Type 2,270860.48,6775.08,1706,2012, 4 
+69,no,Public Sector,3,2,1,1,Saskatchewan,no,Red,yes,N,6,Type 2,0,-2940697.8,912,2014,"-3,224 "
+70,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 3,1356274.63,448976.77,155,2015," 2,897 "
+71,no,Public Sector,3,1,1,1,Ontario,no,Green,yes,N,14,Type 2,3968240.31,1016670,226,2014," 4,499 "
+72,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,5,Type 3,8826060.27,20052428.36,0,2015, -   
+73,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,5,Type 3,7122839.19,3320664.69,0,2015, -   
+74,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,5,Type 1,-347958.04,3605000,730,2015," 4,938 "
+75,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,5,Type 1,2105592.82,3676000,0,2015, -   
+76,no,Private Sector,1,1,1,1,Saskatchewan,no,Red,yes,N,5,Type 3,26405247.27,6038428.01,0,2014, -   
+77,no,Private Sector,1,1,1,1,Saskatchewan,no,Red,yes,N,5,Type 3,25428442.16,7818181.82,0,2015, -   
+78,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,-37146.24,26691.78,728,2015, 37 
+79,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,976296.05,656800.54,296,2016," 2,219 "
+80,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-1204.07,5223.7,273,2016, 19 
+81,no,Public Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,570908.09,2180880,599,2016," 3,641 "
+82,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,64837.65,101575,265,2016, 383 
+83,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,28524.98,25696.4,789,2014, 33 
+84,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,13826276.44,11615472,0,2014, -   
+85,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,1870674.21,11534857.83,246,2015," 46,890 "
+86,no,Public Sector,3,2,1,1,British Columbia,no,Red,yes,N,12,Type 2,-122225.39,3418504.24,1079,2012," 3,168 "
+87,no,Public Sector,2,2,1,1,Alberta,no,Red,yes,N,12,Type 2,-1440261.01,412261.62,1216,2012, 339 
+88,no,Private Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,-959827.74,341863.93,911,2013, 375 
+89,no,Private Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,-798518.94,909156.7,880,2013," 1,033 "
+90,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,796852.55,701300.67,2068,2012, 339 
+91,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,803567.42,266134.61,747,2013, 356 
+92,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,169067.04,39828.72,1576,2013, 25 
+93,no,Public Sector,2,2,1,1,Alberta,no,Red,yes,N,12,Type 2,31632.84,1246.97,146,2015, 9 
+94,no,Public Sector,1,1,1,1,Alberta,no,Red,yes,N,12,Type 1,19344094.84,13292327,1277,2012," 10,409 "
+95,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 2,-378698.25,186090.03,1779,2012, 105 
+96,no,Private Sector,2,2,1,1,Alberta,no,Red,yes,N,12,Type 2,-891781.09,620863.2,918,2013, 676 
+97,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,1175984.02,1150450.32,1015,2014," 1,133 "
+98,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 1,1120348.39,1463410.19,1314,2013," 1,114 "
+99,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 3,2486777.96,1715019.69,1017,2014," 1,686 "
+100,no,Private Sector,1,1,1,1,Alberta,no,Red,no,N,11,Type 1,-2493918.2,815222.57,1374,2013, 593 
+101,no,Private Sector,3,2,1,1,British Columbia,no,Red,no,N,12,Type 1,-867140.85,0,761,2014, -   
+102,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 2,-29248,49999.99,632,2013, 79 
+103,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,-761055.87,3641355.17,1444,2012," 2,522 "
+104,no,Public Sector,3,2,1,1,Saskatchewan,yes,Red,no,N,6,Type 1,21622392.99,17080825,975,2014," 17,519 "
+105,no,Public Sector,3,2,1,1,British Columbia,no,Red,yes,N,6,Type 2,1036935.62,412122.08,1699,2012, 243 
+106,no,Public Sector,2,2,1,1,British Columbia,no,Red,yes,N,6,Type 1,145128.68,88188.16,1113,2014, 79 
+107,no,Private Sector,3,1,1,1,Alberta,no,Red,yes,N,4,Type 2,-238785.63,251852.06,902,2014, 279 
+108,no,Private Sector,3,1,1,1,Alberta,no,Red,yes,N,1,Type 2,377510.05,315890.94,667,2015, 474 
+109,no,Private Sector,1,1,1,1,Newfoundland & Labr.,no,Red,yes,N,5,Type 1,5261359.84,2890293.04,0,2015, -   
+110,no,Private Sector,2,1,1,1,Saskatchewan,no,Red,no,N,5,Type 3,-8176273.84,7651864.99,612,2015," 12,503 "
+111,no,Private Sector,2,2,1,1,Saskatchewan,no,Red,yes,N,5,Type 2,260384.11,0,0,2015, -   
+112,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,1824516.98,381557.3,254,2015," 1,502 "
+113,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,1992500.95,0,708,2015, -   
+114,no,Private Sector,2,1,1,2,Ontario,no,Red,no,N,5,Type 3,-598128.76,1945767.49,250,2015," 7,783 "
+115,no,Private Sector,1,1,1,2,Ontario,no,Red,yes,N,5,Type 3,2984189.4,2244370.79,380,2015," 5,906 "
+116,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,122501.41,101720.25,254,2015, 400 
+117,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 3,9633.88,0,252,2015, -   
+118,no,Public Sector,1,1,1,1,Alberta,no,Green,yes,N,7,Type 3,199236.61,133519.95,12,2015," 11,127 "
+119,no,Public Sector,1,1,1,1,Alberta,no,Green,yes,N,7,Type 3,838446.08,273611.78,77,2015," 3,553 "
+120,no,Public Sector,1,1,1,1,Alberta,no,Green,yes,N,7,Type 3,468964.34,122742.4,59,2015," 2,080 "
+121,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,5,Type 3,1222181.27,974562.17,0,2015, -   
+122,no,Public Sector,1,1,1,1,Alberta,no,Green,yes,N,7,Type 3,18744.54,122755.46,2243,2015, 55 
+123,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,1210251.7,610266.68,128,2015," 4,768 "
+124,no,Private Sector,1,1,1,2,Ontario,no,Red,yes,N,5,Type 3,9062258.09,7416512.75,0,2015, -   
+125,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,723996.43,310603.87,47,2015," 6,609 "
+126,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,238941,321260.1,162,2015," 1,983 "
+127,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 3,447021.57,84115.15,161,2015, 522 
+128,no,Public Sector,1,1,2,1,Alberta,no,Green,yes,N,7,Type 3,604894.31,308204.06,78,2015," 3,951 "
+129,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,99475.13,56931.31,504,2015, 113 
+130,no,Public Sector,1,1,2,1,Alberta,no,Green,yes,N,7,Type 3,922235.98,499659.29,26,2015," 19,218 "
+131,no,Public Sector,1,1,1,1,Alberta,no,Green,yes,N,7,Type 3,1608090.16,530269.51,281,2015," 1,887 "
+132,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,23781.56,38256.09,520,2015, 74 
+133,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,8996.58,37031.31,483,2015, 77 
+134,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,21118.34,48770.37,477,2015, 102 
+135,no,Private Sector,3,2,1,1,Alberta,no,Red,yes,N,8,Type 2,3559922.59,11176445.41,434,2015," 25,752 "
+136,no,Private Sector,3,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 2,3254096.3,813876.45,448,2015," 1,817 "
+137,no,Private Sector,1,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 2,1801697.59,5852597.69,0,2015, -   
+138,no,Private Sector,3,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 2,545224.65,1878152,462,2015," 4,065 "
+139,no,Private Sector,1,2,1,1,Alberta,no,Red,yes,N,8,Type 2,3143402.93,16161875.07,0,2015, -   
+140,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,1,Type 1,1025998.88,36332.73,476,2015, 76 
+141,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,1,Type 1,24163.05,0,474,2015, -   
+142,no,Private Sector,1,2,1,1,Nova Scotia,no,Red,yes,Y,8,Type 2,0,-22500000,273,2016,"-82,418 "
+143,no,Private Sector,2,1,1,3,Alberta,no,Yellow,no,N,7,Type 3,-4026.84,0,364,2016, -   
+144,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,996854.71,724198.7,903,2015, 802 
+145,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,166709.03,105313.78,917,2015, 115 
+146,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,154423.48,55594.91,188,2015, 296 
+147,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,128110.79,62437.84,483,2015, 129 
+148,yes,Public Sector,5,2,1,4,Ontario,yes,Yellow,no,N,15,Type 2,-128876203.6,52859045.33,1272,2015," 41,556 "
+149,yes,Indirect Public/Utility,3,2,1,1,British Columbia,yes,Green,no,N,16,Type 2,26372463.25,39844974.09,1008,2015," 39,529 "
+150,yes,Public Sector,5,2,1,1,Ontario,yes,Yellow,no,N,16,Type 2,20374383.39,18928072.4,920,2015," 20,574 "
+151,yes,Public Sector,3,2,1,1,Ontario,yes,Yellow,no,N,15,Type 2,9166793,13017291,948,2015," 13,731 "
+152,yes,Indirect Public/Utility,5,2,1,1,British Columbia,yes,Green,no,N,16,Type 2,66601878.23,38711957.99,97,2015," 399,092 "
+153,no,Public Sector,5,2,1,1,Quebec,no,Yellow,no,N,17,Type 2,4516324.13,4243897.01,97,2015," 43,752 "
+154,no,Public Sector,5,2,1,1,British Columbia,yes,Yellow,no,N,16,Type 2,49958425,39924106.67,97,2015," 411,589 "
+155,no,Public Sector,5,2,1,1,Ontario,yes,Yellow,yes,N,15,Type 2,20793427.73,15729383.35,97,2015," 162,159 "
+156,no,Public Sector,5,2,1,1,British Columbia,yes,Yellow,yes,N,16,Type 2,60099840.76,39351262.5,249,2015," 158,037 "
+157,no,Public Sector,5,2,1,3,Alberta,no,Yellow,no,N,7,Type 2,122831716,141540626.6,412,2015," 343,545 "
+158,no,Indirect Public/Utility,5,2,1,1,British Columbia,yes,Green,no,N,16,Type 2,42091097.96,16675609.44,1225,2015," 13,613 "
+159,no,Public Sector,2,3,1,3,Ontario,yes,Yellow,no,N,17,Type 1,278849816.6,193813122.2,97,2015," 1,998,073 "
+160,no,Public Sector,5,2,1,3,Quebec,yes,Yellow,no,N,7,Type 2,47280322.07,156674581.2,97,2015," 1,615,202 "
+161,no,Public Sector,5,2,1,1,Quebec,yes,Yellow,no,N,17,Type 2,9253892.49,5006732.72,978,2015," 5,119 "
+162,no,Public Sector,5,2,1,3,International,no,Yellow,no,N,18,Type 2,4246486,22324000.01,97,2015," 230,144 "
+163,no,Public Sector,3,2,1,2,Ontario,no,Yellow,yes,N,15,Type 2,-62629.26,0,99,2015, -   
+164,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,87811.51,335832,135,2016," 2,488 "
+165,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,39501.99,21385.19,260,2016, 82 
+166,no,Private Sector,3,2,1,2,Alberta,no,Yellow,yes,N,17,Type 2,55492.49,0,97,2015, -   
+167,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,50312,-842619.63,456,2015,"-1,848 "
+168,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,21378.34,19296,254,2016, 76 
+169,no,Public Sector,3,2,1,1,Ontario,no,Yellow,yes,N,15,Type 2,3417474.88,11372182.57,462,2015," 24,615 "
+170,no,Public Sector,3,2,1,1,Ontario,no,Yellow,yes,N,15,Type 2,2899999.73,2900000,477,2015," 6,080 "
+171,no,Public Sector,3,2,1,1,Ontario,no,Yellow,yes,N,15,Type 1,4365458.99,0,475,2015, -   
+172,no,Public Sector,3,2,1,1,Ontario,no,Yellow,yes,N,15,Type 2,3520863.05,-0.12,454,2015,-0 
+173,no,Public Sector,2,4,1,1,Ontario,no,Yellow,no,N,15,Type 5,13850108.61,8860087.79,491,2015," 18,045 "
+174,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,15,Type 1,-759244.59,0,475,2015, -   
+175,no,Public Sector,3,2,1,1,Ontario,no,Yellow,yes,N,15,Type 2,1352707,0,462,2015, -   
+176,no,Public Sector,3,2,1,1,Ontario,no,Yellow,yes,N,15,Type 2,804679.82,972749.32,475,2015," 2,048 "
+177,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 3,129900.47,37282.99,456,2015, 82 
+178,no,Private Sector,3,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 2,396379.62,4828342,335,2016," 14,413 "
+179,no,Public Sector,3,2,1,1,Ontario,no,Yellow,no,N,15,Type 2,114795.64,-54175228.5,798,2015,"-67,889 "
+180,no,Public Sector,3,2,1,1,Ontario,no,Yellow,yes,N,15,Type 2,1.96,0,551,2015, -   
+181,no,Indirect Public/Utility,2,4,1,1,Ontario,no,Yellow,yes,N,19,Type 5,1018590.09,-5227921.64,188,2015,"-27,808 "
+182,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,78231.32,25157.11,433,2015, 58 
+183,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,216318.71,0,67,2015, -   
+184,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-5041.27,10492.83,158,2015, 66 
+185,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,250479.1,39999.99,158,2015, 253 
+186,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-42977.51,10000,189,2015, 53 
+187,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,31357.66,40000,189,2015, 212 
+188,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 2,31502.64,7213.13,67,2015, 108 
+189,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,50630.9,28202.02,36,2015, 783 
+190,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,32090.68,29638.71,1924,2015, 15 
+191,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,183254.78,53193.44,0,2015, -   
+192,no,Private Sector,1,4,1,1,Ontario,no,Yellow,yes,N,7,Type 3,0,15135.43,67,2015, 226 
+193,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,12406991.23,6561897.92,97,2015," 67,648 "
+194,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,11813116.79,6908152.73,97,2015," 71,218 "
+195,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,1557809.69,697834.96,97,2015," 7,194 "
+196,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,382408.84,154026.15,97,2015," 1,588 "
+197,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-345.17,5579.05,67,2015, 83 
+198,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,6140011.4,3434645.39,97,2015," 35,409 "
+199,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,562772.34,137498.94,97,2015," 1,418 "
+200,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,4851449.45,1986327.31,97,2015," 20,478 "
+201,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,755915.01,721588.82,97,2015," 7,439 "
+202,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,741994.21,1437326.82,423,2015," 3,398 "
+203,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-653766.65,2138443.61,158,2015," 13,534 "
+204,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,2300179.1,2831990.84,97,2015," 29,196 "
+205,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,397783.07,313789.65,67,2015," 4,683 "
+206,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,0,0.37,97,2015, 0 
+207,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,730996.79,2226861.78,97,2015," 22,957 "
+208,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,1712115.77,1607241.69,97,2015," 16,570 "
+209,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-768143.09,330097.66,67,2015," 4,927 "
+210,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,201833.34,421387.08,67,2015," 6,289 "
+211,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,5477421.49,6187219.49,51,2015," 121,318 "
+212,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-976554.79,1057927.59,97,2015," 10,906 "
+213,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1405671.02,2593951.58,67,2015," 38,716 "
+214,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,359653.11,1249371.43,67,2015," 18,647 "
+215,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1046846.64,368405.15,67,2015," 5,499 "
+216,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,69382.86,28020.94,67,2015, 418 
+217,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1147407.13,1251965.23,67,2015," 18,686 "
+218,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-402380.99,236343.66,67,2015," 3,528 "
+219,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,92279.29,44676.85,81,2015, 552 
+220,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,2953131.81,6944132.56,465,2015," 14,934 "
+221,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-2061184.64,703779.23,97,2015," 7,255 "
+222,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,765680.31,1132426.14,97,2015," 11,674 "
+223,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,105842.44,224287.24,97,2015," 2,312 "
+224,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-3694159.58,9601882.79,1165,2015," 8,242 "
+225,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,144936.45,111000.77,97,2015," 1,144 "
+226,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,339409.22,140387.94,67,2015," 2,095 "
+227,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,2236190.5,2090539.37,312,2015," 6,700 "
+228,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,480905.39,137416.14,67,2015," 2,051 "
+229,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1861098.49,353947.25,67,2015," 5,283 "
+230,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,57090.03,144000,97,2015," 1,485 "
+231,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,840438.85,332322.71,67,2015," 4,960 "
+232,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,1221827.29,3320300.11,739,2015," 4,493 "
+233,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,4480996.51,2465707.71,81,2015," 30,441 "
+234,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,822897.1,524739.35,97,2015," 5,410 "
+235,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1065721.42,810919.98,308,2015," 2,633 "
+236,no,Private Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,39214614.28,0,465,2015, -   
+237,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,142860.38,0,81,2015, -   
+238,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,3643364.22,3243823.12,126,2015," 25,745 "
+239,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,290206.12,106469.89,81,2015," 1,314 "
+240,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,228485.22,180000,81,2015," 2,222 "
+241,no,Private Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,28997.35,0,81,2015, -   
+242,no,Public Sector,3,2,1,5,Ontario,no,Yellow,no,N,15,Type 2,8510530.96,3741596.5,81,2015," 46,193 "
+243,no,Private Sector,2,1,1,1,Ontario,yes,Yellow,yes,N,7,Type 3,75360.85,0.21,81,2015, 0 
+244,no,Private Sector,1,1,1,1,Ontario,yes,Yellow,yes,N,7,Type 3,-1950009.21,0,0,2015, -   
+245,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,3176770.32,1892006.08,826,2015," 2,291 "
+246,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,102975.25,0,81,2015, -   
+247,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 2,2450129.99,1145441.47,81,2015," 14,141 "
+248,no,Public Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,-1135570.6,1902024.44,36,2015," 52,834 "
+249,no,Public Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,150823.5,782999.44,97,2015," 8,072 "
+250,no,Public Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,801781.53,574869.52,67,2015," 8,580 "
+251,no,Private Sector,2,1,1,1,Ontario,yes,Yellow,no,N,7,Type 3,-7440.01,0,615,2015, -   
+252,no,Private Sector,2,1,1,1,Ontario,yes,Yellow,yes,N,7,Type 3,-19692.84,0,1224,2015, -   
+253,no,Public Sector,4,2,1,3,Ontario,no,Yellow,no,N,15,Type 2,8849165.18,23172168,1163,2015," 19,924 "
+254,no,Private Sector,2,1,1,1,Ontario,yes,Yellow,yes,N,7,Type 3,-394921.49,0,1193,2015, -   
+255,yes,Public Sector,3,2,1,1,Ontario,no,Yellow,no,N,15,Type 2,0,5389191.07,615,2015," 8,763 "
+256,no,Private Sector,3,1,1,1,Ontario,no,Yellow,no,N,7,Type 2,982749.42,0,462,2015, -   
+257,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,Y,10,Type 3,432216.39,2560.53,67,2015, 38 
+258,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,152671.13,59898.28,97,2015, 618 
+259,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-176043.18,57829.94,97,2015, 596 
+260,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,Y,10,Type 3,-1023773.6,109549.35,67,2015," 1,635 "
+261,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,133784.39,144000,829,2015, 174 
+262,no,Public Sector,3,1,1,1,Ontario,no,Yellow,yes,Y,10,Type 1,569038.93,0.36,67,2015, 0 
+263,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,597629.96,80983.46,67,2015," 1,209 "
+264,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-157679.59,19251.05,67,2015, 287 
+265,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,167354.42,26797.31,67,2015, 400 
+266,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-151991.16,80266.99,67,2015," 1,198 "
+267,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-235673.74,49857.38,67,2015, 744 
+268,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,102513.51,33845.04,67,2015, 505 
+269,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,13755.83,52082.35,67,2015, 777 
+270,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,18057.06,19918.87,67,2015, 297 
+271,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-331549.15,213168.35,67,2015," 3,182 "
+272,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-699914.15,494804.76,97,2015," 5,101 "
+273,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-280894.35,16674.73,97,2015, 172 
+274,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,141253.39,88205.35,97,2015, 909 
+275,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,138824.64,46345.55,97,2015, 478 
+276,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,82030.13,11284.45,97,2015, 116 
+277,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-11431.46,7846.68,97,2015, 81 
+278,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-40819.09,-315423.58,97,2015,"-3,252 "
+279,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-122339.23,0.28,97,2015, 0 
+280,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,22395.55,-1510686.89,97,2015,"-15,574 "
+281,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,127731.47,-4189892.66,67,2015,"-62,536 "
+282,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,56329.32,-2673.94,67,2015,-40 
+283,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,54224.84,72886.9,67,2015," 1,088 "
+284,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,Y,10,Type 2,-53511.45,0,0,2015, -   
+285,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 3,1394740.97,1425556.38,97,2015," 14,696 "
+286,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,635981.64,770731.94,97,2015," 7,946 "
+287,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 3,608639.92,224699.28,97,2015," 2,316 "
+288,no,Private Sector,1,1,1,1,Alberta,no,Yellow,yes,N,11,Type 3,-15886973.14,1035547.42,97,2015," 10,676 "
+289,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 3,155291.67,101828.34,67,2015," 1,520 "
+290,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 3,145861.48,53079.52,97,2015, 547 
+291,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 3,69138.07,72025.47,97,2015, 743 
+292,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 3,-1183293.24,200016.45,67,2015," 2,985 "
+293,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-252570.23,135091,67,2015," 2,016 "
+294,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 3,18307.78,78134.32,97,2015, 806 
+295,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 3,-185850.85,92149.64,97,2015, 950 
+296,no,Public Sector,1,4,1,1,Ontario,no,Yellow,yes,N,7,Type 3,0,0.38,97,2015, 0 
+297,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,-7309605.32,1265840.62,67,2015," 18,893 "
+298,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,-5112953.39,1292594.37,67,2015," 19,292 "
+299,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,-5242787.57,1231870.45,67,2015," 18,386 "
+300,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,-6470381.01,1281043.9,67,2015," 19,120 "
+301,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,-6236119.84,1275316.47,67,2015," 19,035 "
+302,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,-5742833.8,1272896.64,67,2015," 18,998 "
+303,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,0,-2666840.01,67,2015,"-39,804 "
+304,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,0,-1142931.01,67,2015,"-17,059 "
+305,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,1014866.17,1938105.39,67,2015," 28,927 "
+306,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,664143.22,1471536.61,67,2015," 21,963 "
+307,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 2,-1122903.87,1359964.82,67,2015," 20,298 "
+308,no,Private Sector,2,1,1,1,Alberta,no,Yellow,no,N,7,Type 3,-14988067.84,8069931.79,97,2015," 83,195 "
+309,no,Private Sector,2,1,1,1,Alberta,no,Yellow,no,N,7,Type 3,-2620429.31,1826265.65,97,2015," 18,827 "
+310,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,6564314.2,0,97,2015, -   
+311,no,Private Sector,2,1,1,1,Ontario,yes,Yellow,yes,N,7,Type 2,8654802.21,0,97,2015, -   
+312,no,Private Sector,2,1,2,1,Ontario,no,Yellow,yes,N,7,Type 3,27033.86,46666.77,963,2016, 48 
+313,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1080914.43,1544842.03,454,2016," 3,403 "
+314,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-291036.64,88376.51,218,2016, 405 
+315,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,58845.47,24693.32,176,2016, 140 
+316,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,431436.07,211455.97,30,2016," 7,049 "
+317,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,43638.79,45981.03,33,2016," 1,393 "
+318,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,3770608.22,1702324.98,526,2016," 3,236 "
+319,no,Private Sector,3,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,2931220.19,1707611.49,478,2016," 3,572 "
+320,yes,Public Sector,5,2,1,1,Ontario,no,Yellow,no,N,15,Type 2,7349270.64,3239548.65,712,2016," 4,550 "
+321,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,75421.25,26504.54,127,2016, 209 
+322,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,10666.81,16679.94,139,2016, 120 
+323,no,Private Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,98320.15,67547.04,533,2016, 127 
+324,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,-2259.07,9259.71,856,2016, 11 
+325,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,72551.72,17764.84,519,2016, 34 
+326,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,285667.93,207242.98,136,2016," 1,524 "
+327,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,7467.57,0,122,2016, -   
+328,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,861953.01,812453.42,468,2016," 1,736 "
+329,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,37857.27,29786.59,825,2016, 36 
+330,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,-2576.44,-1000000.04,0,2016, -   
+331,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,721883.48,304685.38,372,2016, 819 
+332,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,446208.11,161291,110,2017," 1,466 "
+333,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,422975.87,82094.46,465,2016, 177 
+334,no,Public Sector,2,1,2,1,Ontario,no,Yellow,yes,N,7,Type 3,15403.1,41085.25,284,2016, 145 
+335,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,439244.91,160767.1,0,2015, -   
+336,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,49015.37,83821.78,402,2015, 209 
+337,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,23950.17,67337.2,402,2015, 168 
+338,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,288375.71,107438.24,402,2015, 267 
+339,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,123529.63,39826.45,0,2015, -   
+340,no,Public Sector,5,2,1,1,Quebec,yes,Yellow,no,N,17,Type 2,6427222.38,2170391.98,244,2015," 8,895 "
+341,no,Public Sector,5,2,1,1,Quebec,yes,Yellow,no,N,17,Type 2,52039527.4,32553485,584,2015," 55,742 "
+342,no,Public Sector,5,2,1,6,Ontario,yes,Indigo,no,N,15,Type 2,-31954501,399114010.7,2320,2015," 172,032 "
+343,no,Public Sector,3,5,1,6,Ontario,no,Violet,yes,N,20,Type 2,1015327857,0,2320,2015, -   
+344,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,30274.5,10961.28,383,2016, 29 
+345,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,169955.59,708031.38,203,2017," 3,488 "
+346,no,Public Sector,3,5,1,6,Ontario,no,Violet,yes,Y,20,Type 2,3588348,0,2320,2015, -   
+347,yes,Public Sector,5,2,1,3,International,yes,Yellow,no,N,18,Type 2,30593460,55810000,97,2015," 575,361 "
+348,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,34971.67,64384.37,66,2015, 976 
+349,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,64556.37,24806.13,0,2015, -   
+350,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,3150.24,16770.08,0,2015, -   
+351,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,42831.17,42444.44,0,2015, -   
+352,no,Private Sector,2,1,2,1,Ontario,no,Yellow,yes,N,7,Type 3,100990.37,142978.27,820,2016, 174 
+353,no,Private Sector,2,1,2,1,Ontario,no,Yellow,yes,N,7,Type 3,34586.33,1311.62,1008,2015, 1 
+354,no,Private Sector,2,1,2,1,Ontario,no,Yellow,yes,N,7,Type 3,34328.25,-29096.15,1008,2015,-29 
+355,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,23151.32,24586.21,0,2015, -   
+356,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,N,21,Type 3,2312577.04,-7768954.7,1150,2015,"-6,756 "
+357,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,4354597.29,1406319.99,739,2015," 1,903 "
+358,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,2446691.86,826645.57,1313,2015, 630 
+359,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,5694311.81,3783000,97,2015," 39,000 "
+360,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,90177.67,144000,97,2015," 1,485 "
+361,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,75018.34,10000.24,0,2015, -   
+362,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,89174.17,18572.03,0,2015, -   
+363,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,360654.94,48390.02,279,2015, 173 
+364,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,59875.64,-16783.64,97,2015,-173 
+365,no,Public Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,2684386.21,864856.21,97,2015," 8,916 "
+366,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,-785671.07,320488.94,97,2015," 3,304 "
+367,no,Private Sector,2,1,1,1,Alberta,no,Yellow,yes,N,7,Type 3,10121390.84,4416463.21,97,2015," 45,531 "
+368,no,Private Sector,5,2,1,1,Ontario,no,Yellow,yes,N,11,Type 3,0,-3925439.69,97,2015,"-40,468 "
+369,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,51023.61,15667.69,0,2015, -   
+370,no,Private Sector,3,1,1,1,Saskatchewan,no,Red,yes,N,6,Type 1,88176.41,143093.6,0,2015, -   
+371,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,5,Type 1,-183640.56,232000,1139,2015, 204 
+372,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,5,Type 1,1345529.56,294000,0,2015, -   
+373,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,6058.46,53854.09,979,2015, 55 
+374,yes,Indirect Public/Utility,3,1,1,3,Alberta,yes,Yellow,yes,N,16,Type 2,-11354153.4,4047121,8,2015," 505,890 "
+375,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,0,8984570,0,2015, -   
+376,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,13,Type 3,15183.59,20933.41,447,2015, 47 
+377,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,13,Type 1,166433.33,156062.55,408,2015, 383 
+378,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,5,Type 3,7507784.77,9359438.55,0,2015, -   
+379,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,7003288.86,8265841.92,697,2015," 11,859 "
+380,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,4208667.24,3796536.85,497,2015," 7,639 "
+381,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,8778844.42,6921406,696,2015," 9,945 "
+382,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,2259910.3,1968326.82,273,2015," 7,210 "
+383,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,11,Type 3,34690.88,0,151,2015, -   
+384,no,Private Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 2,40690.19,47986.25,70,2015, 686 
+385,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 3,515271.9,31369.27,460,2015, 68 
+386,no,Private Sector,1,1,1,1,Saskatchewan,no,Red,yes,N,1,Type 1,-202330.6,2500,167,2015, 15 
+387,no,Public Sector,3,1,1,2,Ontario,no,Orange,yes,Y,3,Type 2,346941.05,220504.64,358,2016, 616 
+388,no,Public Sector,3,1,1,2,Ontario,no,Orange,yes,Y,3,Type 2,160718.53,114298.78,330,2016, 346 
+389,no,Public Sector,2,1,1,3,Ontario,no,Orange,no,N,3,Type 1,93958775.11,246782623.6,3744,2014," 65,914 "
+390,no,Public Sector,2,1,1,3,Ontario,no,Orange,no,N,3,Type 1,132866626.7,562506102.2,3256,2016," 172,760 "
+391,no,Public Sector,3,1,1,2,Ontario,no,Orange,yes,Y,3,Type 2,90033.46,369440.04,354,2016," 1,044 "
+392,no,Private Sector,3,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 1,272686.92,500794.47,330,2016," 1,518 "
+393,no,Public Sector,3,1,1,1,Ontario,no,Green,yes,N,14,Type 1,18264981.79,678442.04,1580,2016, 429 
+394,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,5,Type 2,739005.16,1141341.16,0,2016, -   
+395,no,Public Sector,3,1,1,1,Ontario,no,Green,yes,N,14,Type 1,-2756.94,236528.73,140,2016," 1,689 "
+396,no,Indirect Public/Utility,1,4,1,1,Ontario,no,Yellow,yes,N,19,Type 1,388370.61,-4148617.17,270,2016,"-15,365 "
+397,no,Public Sector,1,1,1,1,Saskatchewan,no,Green,yes,N,7,Type 3,518622.47,317113.57,-24956,2016,-13 
+398,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,1640116.3,796702.68,262,2016," 3,041 "
+399,no,Public Sector,1,1,1,1,Alberta,no,Green,yes,N,7,Type 3,817604.74,448626.15,265,2016," 1,693 "
+400,no,Public Sector,1,1,1,1,Alberta,no,Green,yes,N,7,Type 3,767424.19,651930.27,255,2016," 2,557 "
+401,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,yes,N,7,Type 3,1326726.8,967597.16,477,2016," 2,029 "
+402,no,Indirect Public/Utility,1,1,1,1,Ontario,no,Blue,no,Y,13,Type 1,1484143.41,956676,238,2016," 4,020 "
+403,no,Public Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 2,-662541.15,384220.87,361,2016," 1,064 "
+404,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,270384.89,181332.16,360,2016, 504 
+405,no,Public Sector,2,1,1,3,Ontario,no,Orange,no,N,3,Type 1,18099518.14,27062412.96,0,2018, -   
+406,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,209402.91,156862.28,363,2016, 432 
+407,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,363972.22,774122.36,388,2016," 1,995 "
+408,no,Indirect Public/Utility,3,1,1,2,Ontario,no,Blue,yes,N,22,Type 3,264070.5,180899.6,291,2016, 622 
+409,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,119372.04,74527.53,217,2016, 343 
+410,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,88483.59,144622.55,252,2016, 574 
+411,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,11699.58,6229.07,207,2016, 30 
+412,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,-41713.63,29759.76,196,2016, 152 
+413,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,-49499.82,54555.77,151,2016, 361 
+414,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,564342.34,174252.13,272,2016, 641 
+415,no,Public Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 2,235623.54,30067.56,261,2016, 115 
+416,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 2,866713.26,385968.44,411,2016, 939 
+417,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,362516.02,167484.77,128,2016," 1,308 "
+418,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,653902.25,0,1019,2016, -   
+419,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,4745915.82,0,1019,2016, -   
+420,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,2857131.9,0,1019,2016, -   
+421,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,1090474.73,0,1019,2016, -   
+422,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,8010116.33,0,1019,2016, -   
+423,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,53530.17,20781.87,91,2016, 228 
+424,no,Private Sector,1,3,1,1,Ontario,no,Red,yes,N,1,Type 4,1799084.61,1508141.27,239,2016," 6,310 "
+425,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 2,-506.61,1900.29,460,2015, 4 
+426,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,225685.13,120405.94,92,2016," 1,309 "
+427,no,Public Sector,3,2,1,1,British Columbia,no,Red,yes,N,6,Type 2,356960.37,281742.55,429,2016, 657 
+428,no,Public Sector,2,1,1,3,Ontario,no,Orange,no,N,3,Type 1,9985695.22,6946138,1246,2014," 5,575 "
+429,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,58252.51,37191.94,234,2016, 159 
+430,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,-5955.34,25934.86,393,2016, 66 
+431,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,-2764.66,317712.6,248,2016," 1,281 "
+432,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,266578.81,156537.73,435,2016, 360 
+433,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,-52779.7,165327.18,191,2016, 866 
+434,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,82024.06,35591,700,2015, 51 
+435,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,105978.89,67255.08,577,2015, 117 
+436,no,Public Sector,1,2,2,1,Alberta,no,Red,yes,N,6,Type 2,-504234.11,1448377.19,648,2016," 2,235 "
+437,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,180617.28,166345.28,436,2016, 382 
+438,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,-33798.17,167353.07,437,2016, 383 
+439,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,454704.67,193542.45,536,2016, 361 
+440,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,19778.18,122542.13,263,2016, 466 
+441,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,-83753.81,29825.4,420,2016, 71 
+442,no,Private Sector,3,1,1,2,Ontario,no,Orange,yes,N,2,Type 1,19577309.56,5387941.77,308,2016," 17,493 "
+443,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,470865.87,648854.28,1735,2017, 374 
+444,yes,Public Sector,2,1,1,3,Ontario,no,Orange,no,N,3,Type 1,-1215247.84,18483489.4,637,2016," 29,016 "
+445,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,128924.51,61740.13,73,2016, 846 
+446,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,51837.86,142013.06,121,2016," 1,174 "
+447,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,445441.88,-896303,150,2016,"-5,975 "
+448,no,Public Sector,3,2,1,2,Ontario,no,Orange,yes,N,3,Type 2,551694.52,225062.18,261,2016, 862 
+449,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,112679.8,55360.95,0,2016, -   
+450,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,447089.23,393725.67,0,2016, -   
+451,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,169911.44,128348.46,0,2016, -   
+452,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,1542811.58,735567.93,517,2016," 1,423 "
+453,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,631452.72,191803.52,70,2016," 2,740 "
+454,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,22583.29,182533.1,102,2016," 1,790 "
+455,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,645717.4,649997.39,1216,2016, 535 
+456,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,74290.98,160327.69,239,2016, 671 
+457,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,159209.68,77906.04,494,2016, 158 
+458,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,162580.89,117423.41,106,2016," 1,108 "
+459,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,17510.49,164194.17,266,2016, 617 
+460,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,-63099.48,121288.03,484,2016, 251 
+461,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,225369.1,131803.52,363,2017, 363 
+462,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,159233.13,72308.01,484,2016, 149 
+463,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,Y,22,Type 3,87197.71,64922.92,484,2016, 134 
+464,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,266334.38,152799.24,484,2016, 316 
+465,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,Y,22,Type 3,119446.16,125306.26,484,2016, 259 
+466,no,Private Sector,1,2,1,3,British Columbia,no,Red,yes,N,6,Type 2,1316193.41,365186,213,2016," 1,714 "
+467,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,133048.58,54643.71,484,2016, 113 
+468,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,225895.72,132719.47,484,2016, 274 
+469,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,538711.21,194843.2,484,2016, 403 
+470,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 2,370730.31,187925.9,343,2016, 548 
+471,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,2172169.65,1421174.03,0,2015, -   
+472,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,299931.37,102601.12,461,2016, 223 
+473,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,24640.39,101888.24,484,2016, 211 
+474,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,335885.63,186420.18,461,2016, 404 
+475,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,601255.12,172135.74,484,2016, 356 
+476,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,258566.03,115819.69,484,2016, 239 
+477,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,368679.44,127914.58,484,2016, 264 
+478,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,137441.7,122578.6,181,2017, 677 
+479,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,106912.51,154588.32,484,2016, 319 
+480,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,451017.7,170534.06,461,2016, 370 
+481,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,110104.9,112737.91,484,2016, 233 
+482,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,370535.63,141726.56,484,2016, 293 
+483,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,1008489.02,630435,461,2016," 1,368 "
+484,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,127776.08,45348.27,484,2016, 94 
+485,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,177670.31,99117.98,484,2016, 205 
+486,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,140396.45,99580.53,484,2016, 206 
+487,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,121928.96,122950.34,0,2016, -   
+488,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-43329.17,44964,460,2016, 98 
+489,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,1,Type 1,923033.43,0,0,2016, -   
+490,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,3024.01,15000,385,2016, 39 
+491,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,264071.65,286128,164,2016," 1,745 "
+492,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,467154.49,197549.41,303,2017, 652 
+493,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,5,Type 3,6606145.07,3939952.57,527,2016," 7,476 "
+494,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,182883.7,68420.73,182,2016, 376 
+495,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,1339321.18,832180,397,2016," 2,096 "
+496,no,Private Sector,3,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 2,375348.12,186388.97,220,2016, 847 
+497,no,Private Sector,2,1,1,1,Ontario,no,Red,yes,N,11,Type 2,54721.05,0,0,2016, -   
+498,no,Private Sector,3,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,13728612.47,1548739,340,2017," 4,555 "
+499,no,Public Sector,3,1,1,2,Ontario,no,Orange,yes,Y,3,Type 2,127442.4,103621,209,2016, 496 
+500,no,Public Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 1,914804.62,939950,690,2016," 1,362 "
+501,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,5,Type 3,4685011.26,3868009.98,448,2016," 8,634 "
+502,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,-4842.42,-266750.97,360,2017,-741 
+503,no,Private Sector,2,1,1,2,Ontario,no,Red,yes,N,1,Type 1,423227.84,-620182.11,360,2017,"-1,723 "
+504,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,35976.41,49556.47,354,2017, 140 
+505,no,Public Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 1,830610.07,119876,1417,2016, 85 
+506,no,Private Sector,3,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 2,153277.71,115683.68,123,2016, 941 
+507,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,71590.51,61775.2,241,2017, 256 
+508,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 1,0,195102,0,2017, -   
+509,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,13,Type 1,667499.21,1390878.39,352,2017," 3,951 "
+510,no,Private Sector,3,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 2,-100303.3,62491.42,349,2017, 179 
+511,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,466170.36,-670829.3,292,2016,"-2,297 "
+512,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,254496.97,109592.3,144,2017, 761 
+513,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,231795.46,-491448.7,103,2017,"-4,771 "
+514,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,79974.2,40616.49,346,2017, 117 
+515,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,399610.15,-0.38,155,2017,-0 
+516,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,-7124.57,21138.81,316,2017, 67 
+517,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,100781.95,26107.79,361,2017, 72 
+518,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,357176.37,52107.68,315,2017, 165 
+519,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,190953.57,73284.38,361,2017, 203 
+520,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,322905.61,36375.67,361,2017, 101 
+521,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,220372.19,42547.65,351,2017, 121 
+522,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,113285.32,35815.87,354,2017, 101 
+523,no,Indirect Public/Utility,3,1,1,2,Ontario,no,Blue,yes,N,22,Type 3,149653.29,54844.43,354,2017, 155 
+524,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,22432.65,25603.93,308,2017, 83 
+525,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,91451.29,31801.28,354,2017, 90 
+526,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,97033.63,9539.89,267,2017, 36 
+527,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,81939.81,32683.8,354,2017, 92 
+528,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,72778.49,29445.24,385,2017, 76 
+529,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,-30887.46,36088.93,382,2017, 94 
+530,no,Indirect Public/Utility,3,1,1,2,Ontario,no,Blue,yes,N,22,Type 3,207912.51,58489.09,464,2017, 126 
+531,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,334248.29,113275.58,354,2017, 320 
+532,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,22,Type 3,223869.02,40501.23,382,2017, 106 
+533,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,-27259.32,11971.59,354,2017, 34 
+534,no,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,yes,N,21,Type 3,149286.43,-268942.38,382,2017,-704 
+535,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,14884.58,16234.31,568,2017, 29 
+536,no,Public Sector,3,2,1,1,Ontario,no,Yellow,yes,N,7,Type 2,35747.85,6667.36,289,2017, 23 
+537,no,Public Sector,3,2,1,3,Ontario,no,Orange,yes,N,2,Type 2,68807.55,45131,0,2017, -   
+538,no,Public Sector,3,2,1,2,Ontario,no,Orange,yes,N,2,Type 2,12671.73,46122,26,2017," 1,774 "
+539,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,109210.53,25437.37,203,2017, 125 
+540,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,21040.31,70196,6,2017," 11,699 "
+541,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,18405.86,55199.53,344,2017, 160 
+542,no,Private Sector,4,2,1,3,Ontario,no,Orange,no,N,3,Type 2,13729088.3,7380113,456,2017," 16,184 "
+543,no,Public Sector,3,2,1,3,International,no,Yellow,no,N,24,Type 2,17188631.45,29432731.22,1212,2017," 24,284 "
+544,no,Public Sector,3,2,1,3,International,no,Yellow,no,N,24,Type 2,11837655.62,11467267.87,1211,2017," 9,469 "
+545,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,294329.75,171756.24,268,2017, 641 
+546,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,11370.86,12903.49,42,2017, 307 
+547,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,yes,N,22,Type 3,274378.48,103629.25,175,2017, 592 
+548,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,yes,N,22,Type 3,75188.26,96714.36,175,2017, 553 
+549,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,yes,N,22,Type 3,228115.42,173179.12,331,2017, 523 
+550,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,yes,N,22,Type 3,385559.79,-492645.47,224,2017,"-2,199 "
+551,no,Private Sector,3,2,2,1,Ontario,no,Yellow,yes,N,7,Type 2,-159700.98,85878.03,581,2017, 148 
+552,no,Private Sector,3,2,2,1,Ontario,no,Yellow,yes,N,7,Type 2,-476969.07,73278.75,43,2017," 1,704 "
+553,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,yes,N,22,Type 3,-27410.8,918271.6,1004,2016, 915 
+554,no,Private Sector,2,1,1,1,Manitoba,no,Red,yes,N,5,Type 3,289178.68,1939910.22,258,2017," 7,519 "
+555,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,44485.44,17844.21,101,2017, 177 
+556,no,Public Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 1,47741.15,4205,1043,2017, 4 
+557,no,Private Sector,1,4,1,1,Ontario,no,Yellow,no,N,19,Type 5,-79965.22,0,939,2017, -   
+558,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,312748.27,151717.86,392,2017, 387 
+559,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-4993.73,68154.07,260,2017, 262 
+560,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,190337.15,65580.65,354,2017, 185 
+561,no,Private Sector,4,2,1,3,Ontario,no,Orange,no,N,3,Type 2,-45669566.84,11642258,729,2017," 15,970 "
+562,no,Public Sector,3,1,1,3,Ontario,no,Orange,no,N,3,Type 4,-226603.45,0,576,2017, -   
+563,no,Public Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 2,117302.27,150999.93,356,2017, 424 
+564,no,Public Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 1,54973,45327,126,2017, 360 
+565,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,3134803.06,3825662.39,826,2017," 4,632 "
+566,no,Private Sector,3,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 2,-26238.03,92022.3,6,2017," 15,337 "
+567,no,Private Sector,2,1,1,1,Ontario,no,Red,yes,N,4,Type 1,54485522.54,12527952.99,6,2017," 2,087,992 "
+568,no,Private Sector,3,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 2,-3268.36,74404.23,122,2017, 610 
+569,no,Private Sector,2,1,2,1,Ontario,no,Yellow,yes,N,7,Type 3,190191.94,75344.48,469,2017, 161 
+570,yes,Public Sector,5,1,1,3,Ontario,no,Orange,no,N,3,Type 1,-72431800.52,-12000000,571,2017,"-21,016 "
+571,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,123755.7,43468.77,108,2017, 402 
+572,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,184954.31,147623.61,382,2017, 386 
+573,no,Public Sector,2,1,1,1,Ontario,yes,Yellow,yes,N,7,Type 3,180817.16,108748.88,277,2017, 393 
+574,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,4,Type 1,-21344.81,0,62,2017, -   
+575,no,Public Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 1,1116362.47,1029708,0,2017, -   
+576,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,94933.17,34931.39,388,2017, 90 
+577,no,Private Sector,4,2,1,3,Ontario,no,Orange,no,N,3,Type 1,21814553.58,18115175,419,2017," 43,234 "
+578,yes,Private Sector,4,2,1,3,Ontario,no,Orange,no,N,3,Type 2,36431838.04,28474272,382,2017," 74,540 "
+579,no,Private Sector,3,2,1,2,Ontario,no,Orange,no,Y,3,Type 2,-1577065.27,551456.13,803,2018, 687 
+580,no,Private Sector,3,1,1,1,Ontario,no,Red,yes,N,1,Type 1,415107.02,226697,299,2018, 758 
+581,no,Private Sector,3,2,2,2,Ontario,no,Orange,yes,Y,3,Type 2,167879.22,563086,416,2017," 1,354 "
+582,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,1,Type 1,49506.09,37421.4,299,2018, 125 
+583,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,1139734.07,0,306,2018, -   
+584,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,121108.69,0,642,2018, -   
+585,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,335235.35,0,408,2018, -   
+586,no,Private Sector,3,2,1,1,Nova Scotia,no,Red,yes,N,8,Type 2,343046.42,97501,52,2018," 1,875 "
+587,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-362746.78,101165.92,186,2018, 544 
+588,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,230893.12,21305,620,2018, 34 
+589,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-83983.1,104621.76,209,2018, 501 
+590,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,-113903.52,0,55,2018, -   
+591,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-41754.81,19322.23,205,2018, 94 
+592,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-135126,443349.78,186,2018," 2,384 "
+593,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,82629.71,99209.1,95,2018," 1,044 "
+594,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,1123947.99,744029,607,2018," 1,226 "
+595,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,509384.9,452876.71,2921,2018, 155 
+596,no,Private Sector,3,1,1,1,Ontario,no,Red,yes,N,1,Type 1,224249.61,600769,299,2018," 2,009 "
+597,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,N,21,Type 3,-187181.84,75615.82,51,2017," 1,483 "
+598,no,Private Sector,3,1,1,1,Ontario,no,Red,yes,N,1,Type 1,194509.24,1733371.8,299,2018," 5,797 "
+599,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,233760.53,126040.47,155,2018, 813 
+600,no,Private Sector,2,1,2,1,Ontario,no,Yellow,yes,N,7,Type 3,146646.3,77183.44,696,2018, 111 
+601,no,Private Sector,3,2,1,1,Ontario,no,Red,yes,N,1,Type 2,150392.31,62053.84,729,2018, 85 
+602,no,Private Sector,3,2,2,1,Ontario,no,Red,no,N,5,Type 3,1752249.75,4501396.58,0,2018, -   
+603,no,Private Sector,3,2,1,1,Ontario,no,Red,yes,N,1,Type 2,319528.73,65999,363,2018, 182 
+604,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,373774.3,232999,248,2018, 940 
+605,no,Private Sector,3,2,1,1,Ontario,no,Red,no,N,5,Type 3,13324078.63,6352307.6,407,2018," 15,608 "
+606,no,Private Sector,2,1,1,1,Ontario,no,Red,yes,N,13,Type 2,7082998.03,1431120.85,455,2018," 3,145 "
+607,no,Private Sector,4,2,1,3,Ontario,no,Orange,no,N,3,Type 1,92921.64,9516,452,2018, 21 
+608,no,Private Sector,3,2,1,3,Ontario,no,Orange,no,N,3,Type 2,13453887.14,212576,364,2018, 584 
+609,no,Private Sector,3,2,2,1,Ontario,no,Red,yes,N,13,Type 2,42603.14,71227.56,394,2018, 181 
+610,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,150473,228838.45,554,2018, 413 
+611,no,Private Sector,2,2,2,1,Ontario,no,Red,yes,N,13,Type 2,186434.15,-0.05,455,2018,-0 
+612,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,1925565.49,1670784.95,541,2018," 3,088 "
+613,no,Private Sector,3,2,1,2,Ontario,no,Orange,yes,Y,3,Type 2,181090.01,125716,347,2019, 362 
+614,no,Private Sector,2,1,1,2,Ontario,no,Orange,yes,Y,3,Type 3,0,-0.6,347,2019,-0 
+615,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,42328.8,0,1184,2019, -   
+616,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,476712.21,160777.04,240,2019, 670 
+617,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,399562.24,320504.69,240,2019," 1,335 "
+618,no,Private Sector,2,1,1,3,Ontario,no,Orange,yes,N,3,Type 1,51284.38,0,315,2019, -   
+619,no,Private Sector,3,2,1,1,Indiana,no,Red,yes,N,12,Type 2,2345153.42,1215139.68,241,2019," 5,042 "
+620,no,Private Sector,1,1,1,2,Ontario,no,Orange,yes,Y,3,Type 1,1919047.71,678761,0,2019, -   
+621,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,289267.96,235167.37,298,2019, 789 
+622,no,Private Sector,1,1,1,1,Ontario,no,Red,yes,N,13,Type 1,501784.62,222576.69,151,2019," 1,474 "
+623,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,570970.83,2142493.09,231,2019," 9,275 "
+624,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,37274.31,39753.35,173,2019, 230 
+625,no,Private Sector,3,1,1,1,Nunavut,no,Red,no,N,5,Type 1,4811859.45,10919874.25,0,2019, -   
+626,no,Private Sector,4,2,2,2,Ontario,no,Orange,yes,Y,3,Type 2,-908418.06,64877.37,0,2019, -   
+627,no,Private Sector,3,2,1,2,Ontario,no,Orange,yes,Y,3,Type 2,1088123.17,350793.13,266,2019," 1,319 "
+628,no,Private Sector,3,1,1,2,Ontario,no,Red,yes,Y,1,Type 2,265583.11,79853.98,251,2019, 318 
+629,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,162069.72,398673.51,189,2019," 2,109 "
+630,yes,Public Sector,5,2,1,1,British Columbia,no,Yellow,no,N,16,Type 2,734089.35,1082043.28,263,2016," 4,114 "
+631,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,5,Type 3,-318293.43,0,370,2016, -   
+632,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,202349.66,249704.22,0,2017, -   
+633,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,287542.05,384329.98,275,2017," 1,398 "
+634,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,1053166.34,516449.67,275,2017," 1,878 "
+635,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,263064.28,416272.13,527,2017, 790 
+636,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,195450.27,154800.28,274,2017, 565 
+637,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,yes,N,7,Type 3,225588.16,237946.42,326,2017, 730 
+638,no,Private Sector,3,2,1,3,British Columbia,no,Red,no,N,6,Type 2,-366546.71,1,309,2017, 0 
+639,no,Private Sector,3,2,1,3,British Columbia,no,Red,no,N,6,Type 2,422835.29,1,1534,2017, 0 
+640,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,153554.18,418469.98,275,2017," 1,522 "
+641,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,179641.67,271270,481,2017, 564 
+642,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,654185.8,429972.35,198,2017," 2,172 "
+643,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-333300.14,251673.63,553,2017, 455 
+644,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-1532907.77,2482342,896,2017," 2,770 "
+645,no,Private Sector,2,1,1,1,Manitoba,no,Red,yes,N,5,Type 3,2541081.54,587331.19,254,2017," 2,312 "
+646,no,Private Sector,3,2,1,3,British Columbia,yes,Red,no,N,6,Type 2,3794521.57,22968944,1735,2017," 13,239 "
+647,no,Public Sector,3,1,1,1,International,no,Green,yes,N,14,Type 1,0,1438519,275,2017," 5,231 "
+648,no,Private Sector,3,1,1,1,Alberta,no,Red,yes,N,1,Type 3,206864.3,71094.87,0,2017, -   
+649,no,Private Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,165330.62,63687.53,128,2017, 498 
+650,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1267568.7,2254827.45,838,2017," 2,691 "
+651,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,558239.06,112611.88,548,2017, 205 
+652,no,Indirect Public/Utility,1,1,1,1,Ontario,no,Blue,no,Y,13,Type 1,620897.96,269299.79,205,2017," 1,314 "
+653,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,286034.14,218756.81,275,2017, 795 
+654,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,886127.2,495412.4,486,2017," 1,019 "
+655,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,-21153.52,405798,362,2017," 1,121 "
+656,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,3895779.05,3683578.08,942,2017," 3,910 "
+657,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-801579.9,540941,596,2017, 908 
+658,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 1,458572.87,0,6,2017, -   
+659,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,254889.92,368498.22,191,2017," 1,929 "
+660,no,Indirect Public/Utility,1,1,1,3,British Columbia,no,Red,yes,N,13,Type 1,-246407.59,-91413.01,83,2017,"-1,101 "
+661,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,1,Type 3,223105.87,118568,212,2017, 559 
+662,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,1456410.45,1256847.84,553,2017," 2,273 "
+663,no,Private Sector,1,1,1,2,British Columbia,no,Red,yes,N,11,Type 1,14422.5,10337,0,2017, -   
+664,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,321934.11,181698.67,95,2017," 1,913 "
+665,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,26211.68,45039.07,293,2017, 154 
+666,no,Private Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-49676.1,0,23,2017, -   
+667,no,Private Sector,3,1,1,1,Alberta,no,Red,yes,N,13,Type 2,5791112.58,3622176.45,335,2017," 10,812 "
+668,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,275478.62,84003.36,479,2017, 175 
+669,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,193866.65,-275000,274,2017,"-1,004 "
+670,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,24,Type 3,2065757.06,1603498.89,442,2017," 3,628 "
+671,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,yes,N,7,Type 3,384324.81,568892.99,323,2017," 1,761 "
+672,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-1189227.46,203306.1,394,2017, 516 
+673,no,Private Sector,2,1,1,1,Ontario,no,Yellow,no,N,15,Type 3,1153780.86,610606.26,697,2017, 876 
+674,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,508815.89,218133,264,2017, 826 
+675,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,1,Type 1,68229.67,42893,8,2017," 5,362 "
+676,no,Private Sector,3,1,1,2,Ontario,no,Red,yes,N,13,Type 2,-644357.03,250403,6,2017," 41,734 "
+677,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,585315.97,102135.76,74,2017," 1,380 "
+678,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-1106133.37,511640.27,387,2017," 1,322 "
+679,no,Private Sector,5,2,1,1,British Columbia,no,Green,no,N,16,Type 2,-7521170.48,48059309,1025,2017," 46,887 "
+680,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,1,Type 2,119645.55,33334,6,2017," 5,556 "
+681,no,Public Sector,2,2,1,3,Ontario,no,Yellow,no,N,7,Type 3,11712492.44,5113189.63,1177,2017," 4,344 "
+682,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-54883.15,90910,363,2018, 250 
+683,no,Public Sector,3,2,1,1,Alberta,no,Green,no,N,17,Type 2,11635959.67,12489568,1108,2017," 11,272 "
+684,no,Private Sector,3,1,1,1,Alberta,no,Red,yes,N,13,Type 2,9100441.23,2949798.93,0,2018, -   
+685,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,-426805.41,137192.53,342,2018, 401 
+686,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,1,Type 1,281568.02,1287,15,2018, 86 
+687,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,1,Type 1,221687.65,2361,39,2018, 61 
+688,no,Private Sector,3,1,1,1,International,no,Yellow,yes,N,7,Type 3,68951.22,0,6,2018, -   
+689,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,128706.85,172877.56,1006,2018, 172 
+690,no,Private Sector,1,1,1,2,Ontario,no,Blue,yes,Y,11,Type 3,0,-0.24,0,2018, -   
+691,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-1164922.3,649054.84,284,2018," 2,285 "
+692,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-1806774.15,471601.85,200,2018," 2,358 "
+693,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-114161.81,548273.85,424,2018," 1,293 "
+694,no,Private Sector,3,1,1,1,Saskatchewan,no,Red,yes,N,13,Type 2,1460117.99,434599.95,393,2018," 1,106 "
+695,no,Private Sector,3,1,1,1,Saskatchewan,no,Red,yes,N,13,Type 2,-87808.19,347772.46,438,2018, 794 
+696,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,1,Type 3,460561.42,89508.49,224,2018, 400 
+697,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,96541.65,982462.62,833,2018," 1,179 "
+698,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-519707.66,532952.01,213,2018," 2,502 "
+699,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-1599184.57,318256.05,125,2018," 2,546 "
+700,no,Public Sector,5,2,1,3,Quebec,no,Indigo,no,N,15,Type 2,244990659.7,578734000,-24744,2015,"-23,389 "
+701,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,1,Type 3,61668.78,23024.47,978,2018, 24 
+702,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,1103558.1,5689342.62,2215,2018," 2,569 "
+703,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,302555.88,73527.94,776,2018, 95 
+704,no,Public Sector,2,2,1,3,Ontario,no,Yellow,no,N,7,Type 2,-3444517,1401949.02,1270,2018," 1,104 "
+705,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-3901505.76,703239.4,463,2018," 1,519 "
+706,no,Public Sector,2,2,1,3,Ontario,no,Yellow,no,N,7,Type 3,2377505.79,907427.53,183,2018," 4,959 "
+707,no,Public Sector,5,2,1,6,Ontario,yes,Indigo,no,N,15,Type 2,-49812029.33,118402300.1,2190,2018," 54,065 "
+708,no,Indirect Public/Utility,2,1,1,3,British Columbia,no,Red,yes,N,13,Type 3,-28803.17,-61302.14,126,2018,-487 
+709,no,Private Sector,1,1,1,1,Alberta,no,Red,yes,N,13,Type 1,4472953.08,1872469.97,295,2018," 6,347 "
+710,no,Indirect Public/Utility,2,1,1,3,British Columbia,no,Red,yes,N,13,Type 3,64706.63,-61302.14,95,2018,-645 
+711,no,Private Sector,3,1,1,1,Alberta,no,Red,yes,N,13,Type 1,169576.4,53144,13,2018," 4,088 "
+712,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,1,Type 1,-11088.9,0,24,2018, -   
+713,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,2125677.32,180230,363,2018, 497 
+714,no,Public Sector,3,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,49957257.45,36075050,546,2018," 66,072 "
+715,no,Indirect Public/Utility,2,1,1,3,British Columbia,no,Red,yes,N,13,No Type,51473.87,0,55,2018, -   
+716,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,13,Type 3,53287.56,4361.4,0,2018, -   
+717,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,13,Type 3,71359.4,2852.62,91,2018, 31 
+718,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,2396524.62,2588972.78,1087,2018," 2,382 "
+719,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-58663.32,55478.17,403,2018, 138 
+720,no,Private Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-1072097.81,520767,1179,2018, 442 
+721,no,Private Sector,3,2,2,1,Ontario,no,Red,yes,N,13,Type 2,244017.57,229145.04,394,2018, 582 
+722,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,11413.99,18659.67,720,2018, 26 
+723,no,Private Sector,3,1,1,1,Alberta,no,Red,yes,N,13,Type 1,199417.34,117356,713,2019, 165 
+724,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,267709.49,90909.91,730,2019, 125 
+725,no,Private Sector,3,1,1,1,Ontario,no,Yellow,yes,N,7,Type 2,-398293.91,137192.11,364,2019, 377 
+726,no,Private Sector,1,1,2,1,Ontario,no,Red,yes,N,5,Type 1,114181.09,-368233.29,729,2019,-505 
+727,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,1,Type 1,67989.71,0,0,2019, -   
+728,no,Private Sector,3,1,1,1,Alberta,no,Red,yes,N,13,Type 2,12164705.49,6170164.56,0,2019, -   
+729,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,N,21,Type 3,-4266.05,75036.65,915,2017, 82 
+730,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,N,21,Type 3,-631318.88,72471.2,21,2017," 3,451 "
+731,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,475430.93,192610.17,204,2017, 944 
+732,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,320165.94,30199.96,134,2017, 225 
+733,no,Indirect Public/Utility,1,1,1,3,British Columbia,no,Red,yes,N,13,Type 1,3067.34,27600,396,2017, 70 
+734,no,Private Sector,3,1,1,1,Alberta,no,Red,yes,N,13,Type 1,-931082.15,2944546.39,391,2017," 7,531 "
+735,no,Private Sector,3,2,1,3,British Columbia,yes,Red,no,N,6,Type 2,27843.16,0,354,2017, -   
+736,no,Public Sector,3,2,1,1,Ontario,no,Yellow,no,N,15,Type 2,1946403.83,0,272,2017, -   
+737,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,21,Type 3,90117.55,649269,10,2017," 64,927 "
+738,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,450249.06,310209.87,430,2017, 721 
+739,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,227307.37,46637.99,300,2017, 155 
+740,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,5,Type 3,3361027.15,5437623.94,427,2017," 12,734 "
+741,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,-867690.42,1338194.05,2100,2016, 637 
+742,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,N,21,Type 3,-462502,1018932.77,760,2017," 1,341 "
+743,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,-1936028.37,1299122.91,1544,2017, 841 
+744,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,186135.7,457345.99,287,2018," 1,594 "
+745,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,325145.34,311726.97,385,2018, 810 
+746,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,1217957.18,1761310.52,246,2018," 7,160 "
+747,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,634720.38,612453.76,180,2018," 3,403 "
+748,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,5,Type 3,4877765.51,5791750.06,364,2018," 15,911 "
+749,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,5,Type 3,-363062.74,70049.97,367,2018, 191 
+750,no,Indirect Public/Utility,1,2,1,3,Saskatchewan,no,Red,no,N,6,Type 1,247104.99,140321.14,210,2018, 668 
+751,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,yes,N,7,Type 3,-58281.56,196948.31,189,2018," 1,042 "
+752,no,Private Sector,2,4,1,1,Ontario,no,Yellow,no,N,19,Type 2,-3193.12,0,639,2018, -   
+753,yes,Public Sector,3,2,1,1,British Columbia,yes,Green,no,N,16,Type 2,164067969.9,169018704.8,2100,2018," 80,485 "
+754,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,692807.43,479512.59,182,2018," 2,635 "
+755,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,yes,N,7,Type 3,90016.34,338449.35,120,2018," 2,820 "
+756,no,Private Sector,3,2,1,1,Ontario,no,Red,yes,N,5,Type 2,2260409.72,2386183.87,805,2017," 2,964 "
+757,no,Private Sector,3,1,1,1,Ontario,no,Red,yes,N,1,Type 1,108575.34,543650.91,299,2018," 1,818 "
+758,no,Private Sector,3,1,1,1,Ontario,no,Red,yes,N,1,Type 1,627495.17,85256.2,299,2018, 285 
+759,no,Indirect Public/Utility,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,374883.59,5336.02,331,2017, 16 
+760,no,Indirect Public/Utility,1,1,1,1,Ontario,no,Blue,yes,Y,13,Type 1,3184978.88,3517678.49,1021,2018," 3,445 "
+761,yes,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,21,Type 2,2852236.04,3256189.41,588,2018," 5,538 "
+762,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,yes,Y,13,Type 3,4742993.53,1576762.96,456,2018," 3,458 "
+763,yes,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,yes,N,25,Type 3,0,-6034532.34,239,2018,"-25,249 "
+764,no,Indirect Public/Utility,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,71191.71,63005.94,204,2018, 309 
+765,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,5,Type 3,1345725.81,1306364.64,257,2018," 5,083 "
+766,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,5,Type 3,-389407.73,3157771.63,381,2018," 8,288 "
+767,no,Indirect Public/Utility,4,2,2,3,Ontario,no,Blue,no,N,22,Type 2,425553.51,471160.8,906,2018, 520 
+768,no,Indirect Public/Utility,3,2,1,3,Ontario,no,Blue,yes,N,21,Type 2,-0.01,0,1029,2017, -   
+769,no,Indirect Public/Utility,4,2,1,3,Ontario,no,Blue,no,N,22,Type 2,5906312.47,5074805.35,875,2018," 5,800 "
+770,yes,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,26,Type 3,-2353473.84,922798.63,231,2018," 3,995 "
+771,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,yes,N,21,Type 3,0,-8773806.05,364,2018,"-24,104 "
+772,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,yes,N,21,Type 3,-62.91,-5464544.37,1118,2018,"-4,888 "
+773,no,Public Sector,3,2,1,1,Alberta,no,Red,no,N,6,Type 2,1479692.31,2547945.57,637,2018," 4,000 "
+774,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 1,247150.83,413142.13,147,2018," 2,810 "
+775,no,Public Sector,1,1,1,2,Ontario,no,Red,yes,N,6,Type 1,0,-2500000.06,728,2018,"-3,434 "
+776,no,Indirect Public/Utility,3,2,1,1,Alberta,no,Blue,no,N,23,Type 3,-4041791.1,1228225.95,333,2018," 3,688 "
+777,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,194751.91,115420.82,86,2018," 1,342 "
+778,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,1213516.44,661865.32,111,2018," 5,963 "
+779,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,324608.19,875874.99,529,2018," 1,656 "
+780,no,Indirect Public/Utility,5,2,1,1,British Columbia,no,Green,no,N,16,Type 2,7226000,5199934,456,2018," 11,403 "
+781,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,21,Type 3,-675649.41,852946.02,916,2018, 931 
+782,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,969350.18,584945.46,194,2018," 3,015 "
+783,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,473758,573746.09,194,2018," 2,957 "
+784,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,N,21,Type 3,375753.15,1117644.65,1118,2018," 1,000 "
+785,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 2,109075.3,42197.31,1248,2018, 34 
+786,yes,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,218371.93,176126.19,1458,2018, 121 
+787,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,44087.48,17261.89,1459,2018, 12 
+788,no,Private Sector,3,2,1,1,Ontario,no,Red,yes,N,5,Type 2,0,-0.01,300,2019,-0 
+789,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-7551.53,164483.61,364,2019, 452 
+790,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,24,Type 3,312781.99,128528.06,463,2018, 278 
+791,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,270154.97,243737.37,0,2019, -   
+792,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,337537.27,653152.33,112,2019," 5,832 "
+793,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,47082.93,37689.48,132,2019, 286 
+794,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,231950.43,282348.49,81,2019," 3,486 "
+795,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,567125.73,2679759.75,794,2019," 3,375 "
+796,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,363367.91,161884.59,143,2019," 1,132 "
+797,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,-27093.61,46135,730,2019, 63 
+798,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,26523.17,611301.79,102,2019," 5,993 "
+799,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-2431.44,22322.08,152,2019, 147 
+800,no,Public Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,963807.05,619486.37,728,2018, 851 
+801,no,Public Sector,5,2,1,6,Ontario,no,Yellow,no,N,17,Type 2,456433499.2,0,2678,2018, -   
+802,no,Public Sector,5,1,1,1,Quebec,no,Green,yes,N,14,Type 3,2405068.19,3773648.9,822,2018," 4,591 "
+803,no,Public Sector,3,2,1,1,Alberta,no,Red,no,N,6,Type 2,190850.16,103905.17,483,2018, 215 
+804,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,5,Type 3,161783.83,0,212,2018, -   
+805,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,Y,21,Type 3,1005576.04,291354.81,1127,2018, 259 
+806,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,58558.49,160987.91,728,2018, 221 
+807,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,-13954.91,-122752.48,728,2018,-169 
+808,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,Y,21,Type 3,2236054.25,7895432.5,1492,2018," 5,292 "
+809,no,Public Sector,3,3,1,1,Ontario,no,Blue,yes,N,26,Type 2,56466.17,34510.17,-25570,2018,-1 
+810,no,Public Sector,2,1,1,2,Ontario,no,Blue,no,N,21,Type 3,50586.3,79597.74,385,2018, 207 
+811,no,Public Sector,2,1,1,1,Ontario,no,Blue,yes,N,26,Type 2,141282.21,42860.63,728,2018, 59 
+812,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,0,-257269.55,728,2018,-353 
+813,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,yes,N,21,Type 3,-92555.43,44547.66,728,2018, 61 
+814,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,1839875.09,1289306.42,386,2018," 3,340 "
+815,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,932506.56,583459.61,384,2018," 1,519 "
+816,no,Private Sector,3,3,1,1,Ontario,no,Blue,yes,N,26,Type 2,-31238.27,26682.94,728,2018, 37 
+817,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,102696.83,-179289.32,363,2019,-494 
+818,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,409732.42,261967.52,363,2019, 722 
+819,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,4537918.89,1812871.38,356,2019," 5,092 "
+820,no,Private Sector,3,3,1,1,Ontario,no,Blue,no,N,26,Type 2,21666.35,44276.7,363,2019, 122 
+821,no,Public Sector,5,2,1,6,Michigan,no,Yellow,no,N,17,Type 2,51484712.66,65646000,3043,2018," 21,573 "
+822,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,-62540.82,27624.01,363,2019, 76 
+823,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,1039110.12,582172.54,344,2019," 1,692 "
+824,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,715255.6,595922.3,343,2019," 1,737 "
+825,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,17185.21,-99052.09,363,2019,-273 
+826,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,21,Type 3,1034445.94,237491.98,701,2019, 339 
+827,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,34451.83,-96344.77,363,2019,-265 
+828,no,Private Sector,1,1,2,1,Ontario,no,Red,yes,N,5,Type 1,-752162.05,334999,699,2019, 479 
+829,no,Public Sector,3,2,1,1,Alberta,no,Red,yes,N,6,Type 2,932720.41,379529.93,0,2019, -   
+830,no,Public Sector,4,2,1,1,British Columbia,no,Green,no,N,16,Type 2,48522397.55,43647297,1825,2019," 23,916 "
+831,no,Indirect Public/Utility,1,1,1,2,Ontario,no,Blue,no,Y,13,Type 1,1388294.54,742978.57,729,2019," 1,019 "
+832,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,46073.77,197806.31,729,2019, 271 
+833,no,Public Sector,2,1,2,1,Saskatchewan,no,Green,yes,N,7,Type 3,496968.94,954522.91,320,2019," 2,983 "
+834,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,176563.6,260876.18,729,2019, 358 
+835,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 2,15271.97,311617.59,729,2019, 427 
+836,no,Private Sector,3,2,1,1,Ontario,no,Red,yes,N,5,Type 2,0,0.28,300,2019, 0 
+837,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,5936.78,36485.1,729,2019, 50 
+838,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,79883.42,-111717,363,2019,-308 
+839,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,1346267.98,641810.42,307,2019," 2,091 "
+840,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,1197965.71,633920.17,305,2019," 2,078 "
+841,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,0,-34142.88,363,2019,-94 
+842,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,29280.04,-112212.95,363,2019,-309 
+843,no,Public Sector,3,1,1,3,Ontario,no,Orange,no,N,3,Type 4,442834.73,0,364,2019, -   
+844,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,94703.34,22574.89,1015,2019, 22 
+845,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,710667.86,470490.29,238,2019," 1,977 "
+846,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,49100.2,19147.71,363,2019, 53 
+847,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,34548.77,-140539.87,363,2019,-387 
+848,yes,Public Sector,3,2,1,1,Alberta,yes,Green,no,N,17,Type 2,-13221270.94,8160844.35,0,2019, -   
+849,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,21,Type 3,406386.82,262315.33,1011,2019, 259 
+850,no,Private Sector,3,2,1,1,New Brunswick,no,Red,yes,N,8,Type 2,-10066.84,42920.27,88,2019, 488 
+851,yes,Public Sector,3,1,1,3,Ontario,no,Orange,no,N,3,Type 1,19252.05,0,364,2019, -   
+852,no,Private Sector,3,2,1,1,New Brunswick,no,Red,yes,N,8,Type 2,-9768.29,24961.87,88,2019, 284 
+853,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,60440.49,31925.68,729,2019, 44 
+854,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,-270366.94,140184.43,285,2019, 492 
+855,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,1,Type 3,586162.18,50000,0,2019, -   
+856,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,-61015.9,87263.92,274,2019, 318 
+857,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,-59317.3,32584.3,274,2019, 119 
+858,no,Indirect Public/Utility,2,1,2,2,New Brunswick,no,Blue,no,Y,27,Type 3,222311.53,293081.18,274,2019," 1,070 "
+859,no,Indirect Public/Utility,2,1,2,1,Manitoba,no,Blue,no,N,27,Type 3,178517.4,319986.07,274,2019," 1,168 "
+860,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,Y,11,Type 3,-1283325.58,-888147.22,1094,2019,-812 
+861,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,Y,23,Type 3,42673.02,13382.79,729,2019, 18 
+862,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,13,Type 3,1977444.52,416001.51,-26017,2019,-16 
+863,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,1,Type 1,65579.69,0,0,2019, -   
+864,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,1,Type 1,284452.99,0,0,2019, -   
+865,no,Public Sector,3,2,1,1,Ontario,no,Blue,no,N,23,Type 2,582501.47,279763.62,729,2019, 384 
+866,yes,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,no,N,26,Type 3,1263240.59,1153604.14,729,2019," 1,582 "
+867,yes,Public Sector,4,2,1,5,Ontario,no,Yellow,no,N,17,Type 2,20154651.93,75313494.24,1822,2019," 41,336 "
+868,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,-7337.78,-175045.39,363,2019,-482 
+869,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,49072.15,-53730.48,363,2019,-148 
+870,no,Private Sector,3,2,1,2,Ontario,no,Orange,no,Y,3,Type 2,-183169.62,385505.15,364,2019," 1,059 "
+871,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,512414.87,375003.52,141,2019," 2,660 "
+872,no,Private Sector,3,2,1,3,British Columbia,yes,Red,no,N,6,Type 2,15462.9,0,0,2019, -   
+873,no,Private Sector,3,2,1,3,British Columbia,no,Red,no,N,6,Type 2,1227545.78,1447927,0,2019, -   
+874,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,327731,172611.52,729,2019, 237 
+875,no,Private Sector,1,1,1,2,Alberta,no,Red,yes,N,1,Type 1,6443.17,0,0,2019, -   
+876,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,233747,1574830,2191,2019, 719 
+877,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,294966.32,220255.1,220,2019," 1,001 "
+878,no,Private Sector,2,1,2,1,Ontario,no,Yellow,yes,N,7,Type 3,232006.74,135512.72,143,2019, 948 
+879,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,783469.89,600163.25,567,2019," 1,058 "
+880,no,Indirect Public/Utility,3,2,2,3,Ontario,no,Blue,no,N,13,Type 2,23053.92,3160830,1094,2019," 2,889 "
+881,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,256983.09,270968.34,252,2019," 1,075 "
+882,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,195545.93,223656.62,729,2019, 307 
+883,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,53413.09,102107.71,-32296,2019,-3 
+884,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,38481.66,-565.51,729,2019,-1 
+885,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,1951266.71,1903131.86,729,2019," 2,611 "
+886,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,117533.51,200883.72,176,2019," 1,141 "
+887,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,225375.51,124396.57,2191,2019, 57 
+888,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,329125.05,253897.99,129,2019," 1,968 "
+889,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,N,27,Type 3,3366778.91,1064517.16,518,2019," 2,055 "
+890,no,Public Sector,5,2,1,3,Quebec,yes,Indigo,no,N,15,Type 2,28972398.11,9285590,-25903,2018,-358 
+891,no,Public Sector,5,2,1,3,Quebec,yes,Indigo,no,N,15,Type 2,-13527543.25,28675644.98,-25903,2018,"-1,107 "
+892,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,106966.91,147594.55,115,2019," 1,283 "
+893,no,Public Sector,1,1,2,1,Alberta,no,Green,yes,N,7,Type 3,64065.21,39772.99,168,2019, 237 
+894,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,61092.21,84940.05,729,2019, 117 
+895,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,58026.72,34945.03,729,2019, 48 
+896,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,192838.29,148406.44,897,2019, 165 
+897,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,650140.26,398969.51,141,2019," 2,830 "
+898,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,13,Type 1,216192.37,175375.58,729,2019, 241 
+899,no,Public Sector,3,2,1,3,British Columbia,no,Red,no,N,6,Type 2,15287177.06,12171179.71,0,2019, -   
+900,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,-58500.4,760631.14,898,2019, 847 
+901,no,Private Sector,3,2,1,1,Ontario,no,Yellow,no,N,7,Type 2,1046802.18,775799.86,667,2019," 1,163 "
+902,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,55936.81,34503.52,729,2019, 47 
+903,no,Public Sector,2,1,1,1,International,no,Blue,no,N,27,Type 3,434984.44,154680.88,152,2019," 1,018 "
+904,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,27,Type 3,124495.19,187222.61,518,2019, 361 
+905,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,83892.85,31999.64,93,2019, 344 
+906,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,82329.11,30258.68,93,2019, 325 
+907,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,1,Type 1,8178.04,0,0,2019, -   
+908,no,Private Sector,3,2,1,1,Alberta,no,Red,no,N,13,Type 2,22133492,652000.24,0,2019, -   
+909,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,131079.94,45634.49,52,2019, 878 
+910,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,13,Type 2,1258811.87,827689.42,0,2019, -   
+911,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,49883.81,34032.81,366,2019, 93 
+912,no,Private Sector,2,1,1,2,British Columbia,no,Red,no,N,1,Type 1,-535562.2,0,0,2019, -   
+913,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,1,Type 1,666844.51,33018,0,2019, -   
+914,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,1274790.73,1453212.43,697,2019," 2,085 "
+915,no,Private Sector,1,3,1,1,Ontario,no,Yellow,no,N,7,Type 3,138855.35,115998.16,719,2019, 161 
+916,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,797539.89,1065052.75,2191,2019, 486 
+917,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,70763.36,47486.64,729,2019, 65 
+918,no,Indirect Public/Utility,2,2,2,1,Ontario,no,Blue,no,N,27,Type 1,193181.51,4432.51,477,2019, 9 
+919,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,-64548.2,59815.08,729,2019, 82 
+920,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,-25173.54,9852.23,729,2019, 14 
+921,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,-1926.79,9342.58,729,2019, 13 
+922,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,24,Type 3,-24707.75,38575.27,106,2019, 364 
+923,yes,Public Sector,5,2,1,1,Alberta,yes,Green,no,N,17,Type 2,624209.86,789027.37,0,2020, -   
+924,no,Public Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,502738.5,365727.97,729,2019, 502 
+925,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,51634.06,-18155.24,729,2019,-25 
+926,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,55767.39,38035.81,729,2019, 52 
+927,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,446639.09,174762.65,96,2019," 1,820 "
+928,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,-30147.1,54954.59,729,2019, 75 
+929,no,Private Sector,3,2,1,1,Ontario,no,Red,yes,N,5,Type 1,261418.51,317444,0,2019, -   
+930,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,28405.62,27484.28,729,2019, 38 
+931,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,yes,N,7,Type 3,1233981.17,721603.76,85,2019," 8,489 "
+932,no,Indirect Public/Utility,1,1,1,2,Quebec,no,Blue,yes,Y,13,Type 1,1584906.48,-3114322.96,607,2019,"-5,131 "
+933,no,Private Sector,3,2,1,1,Ontario,no,Blue,yes,N,26,Type 2,106948.93,14273.15,729,2019, 20 
+934,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,168125.57,65174.98,729,2019, 89 
+935,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,66153.04,51448.57,729,2019, 71 
+936,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,-2398.87,32205.11,729,2019, 44 
+937,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,93586.16,104172.95,1094,2019, 95 
+938,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,39538.09,70853.31,1094,2019, 65 
+939,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,37057.87,58635.15,729,2019, 80 
+940,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,14,Type 3,100790.91,57047.31,423,2019, 135 
+941,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,34920.66,41222.72,729,2019, 57 
+942,no,Indirect Public/Utility,3,2,1,2,British Columbia,no,Blue,no,N,13,Type 2,-62853.09,153223.53,1094,2019, 140 
+943,no,Indirect Public/Utility,1,1,2,1,Ontario,no,Blue,no,N,21,Type 3,-1016083.49,4908176.77,2191,2020," 2,240 "
+944,no,Private Sector,3,2,1,1,Alberta,no,Blue,no,N,26,Type 2,79385.39,117103.9,729,2019, 161 
+945,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,345544.54,107032.42,729,2019, 147 
+946,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,59435.32,198925.72,729,2019, 273 
+947,no,Private Sector,3,2,1,1,Ontario,no,Red,no,N,1,Type 2,30713693.72,35110172.42,1136,2019," 30,907 "
+948,no,Public Sector,2,1,2,2,Ontario,no,Orange,no,N,3,Type 1,1647296.63,-1284127.13,0,2020, -   
+949,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,2226030.51,1238205.13,557,2019," 2,223 "
+950,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,734693.18,684610.81,557,2019," 1,229 "
+951,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,2240020.57,1318446.42,557,2019," 2,367 "
+952,no,Private Sector,3,2,1,3,Saskatchewan,no,Green,no,N,17,Type 2,5271283.83,4081742.14,756,2019," 5,399 "
+953,no,Private Sector,3,2,1,3,Nova Scotia,no,Red,no,N,1,Type 2,1670647.91,740206.07,557,2019," 1,329 "
+954,no,Private Sector,4,2,1,1,Ontario,no,Red,no,N,13,Type 2,8474076.03,3055871.26,1824,2020," 1,675 "
+955,no,Private Sector,3,2,1,1,Ontario,no,Red,no,N,1,Type 2,13819277.78,6011187.12,0,2021, -   
+956,no,Public Sector,2,1,2,1,Saskatchewan,no,Green,yes,N,7,Type 3,536791.76,306458.64,388,2019, 790 
+957,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,73973.31,180302.87,729,2019, 247 
+958,no,Private Sector,3,2,1,3,Ontario,no,Orange,yes,N,2,Type 2,0,102030.01,730,2019, 140 
+959,no,Private Sector,3,2,1,3,Ontario,no,Orange,yes,N,2,Type 2,127561.33,142597.39,730,2019, 195 
+960,no,Private Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-167059.55,98746.05,152,2020, 650 
+961,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,438303.04,187571.8,729,2020, 257 
+962,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,-13550.1,-2641.4,729,2020,-4 
+963,no,Indirect Public/Utility,3,2,2,1,Ontario,no,Blue,no,N,26,Type 2,739670.6,610694.05,729,2020, 838 
+964,no,Indirect Public/Utility,1,1,1,1,Ontario,no,Blue,no,N,13,Type 3,7871310.49,4183698,1094,2020," 3,824 "
+965,no,Indirect Public/Utility,3,1,2,1,Ontario,no,Blue,no,N,21,Type 3,291485.07,121164.93,729,2020, 166 
+966,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,21,Type 3,85012.1,89505.77,729,2020, 123 
+967,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 1,173548.91,6923.74,365,2020, 19 
+968,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,10,Type 1,90767.48,33900,365,2020, 93 
+969,no,Private Sector,3,2,1,3,Nova Scotia,no,Red,yes,N,1,Type 2,26521.41,83363.51,287,2020, 290 
+970,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,1346927.34,300042.5,495,2020, 606 
+971,no,Public Sector,2,1,2,1,Saskatchewan,no,Green,yes,N,7,Type 3,715977.58,357908.42,298,2020," 1,201 "
+972,no,Public Sector,5,2,1,1,British Columbia,yes,Green,no,N,7,Type 2,4959345,25293818,1096,2020," 23,078 "
+973,no,Private Sector,3,3,1,1,Ontario,no,Blue,no,N,26,Type 2,357972.74,290234.7,729,2020, 398 
+974,no,Public Sector,5,1,1,1,Quebec,no,Green,no,N,14,Type 3,80778.86,3281877.16,307,2020," 10,690 "
+975,no,Private Sector,3,1,1,1,British Columbia,no,Red,no,N,13,Type 2,7563370.33,2841184.04,0,2020, -   
+976,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 2,44065.12,31187.37,729,2020, 43 
+977,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,331689.08,178183.86,729,2020, 244 
+978,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,374564.96,132203.55,172,2020, 769 
+979,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 3,111130.79,150504.03,729,2020, 206 
+980,no,Private Sector,3,2,1,1,Alabama,no,Orange,no,N,12,Type 2,794617.52,388157.8,0,2020, -   
+981,no,Private Sector,3,2,1,1,British Columbia,no,Red,no,N,13,Type 2,21490410.91,21889050.26,0,2020, -   
+982,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,26095.44,0,730,2020, -   
+983,no,Indirect Public/Utility,3,2,2,1,Ontario,no,Blue,no,N,26,Type 2,-1103355.48,245288.04,729,2020, 336 
+984,no,Public Sector,4,2,1,3,British Columbia,yes,Green,no,N,17,Type 2,96635331.9,117106419,1461,2020," 80,155 "
+985,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,1,Type 2,342217.19,144669.13,0,2020, -   
+986,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,no,N,7,Type 3,2981272.33,564264.41,618,2020, 913 
+987,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,20018.83,-48321.87,729,2020,-66 
+988,no,Private Sector,3,2,1,1,Ontario,no,Orange,no,N,2,Type 2,125840.01,137588.09,0,2020, -   
+989,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,1405326.97,1045258.5,231,2020," 4,525 "
+990,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,14,Type 1,350762.93,596446.13,0,#VALUE!, -   
+991,no,Indirect Public/Utility,4,2,1,1,British Columbia,no,Blue,no,N,23,Type 2,-3084831.73,19664520,729,2020," 26,975 "
+992,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,103830.96,247125.52,176,2020," 1,404 "
+993,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,66216.91,-154346.16,0,2020, -   
+994,no,Indirect Public/Utility,1,1,2,1,Ontario,no,Blue,no,N,23,Type 3,5929930.82,1488724.55,365,2020," 4,079 "
+995,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 2,-256855.63,441221.56,729,2020, 605 
+996,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,1375065.41,544483.55,126,2020," 4,321 "
+997,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,N,27,Type 3,3261334.93,1028704.64,241,2020," 4,268 "
+998,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,-182872.27,414086.82,203,2020," 2,040 "
+999,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,30604.72,14422.65,274,2020, 53 
+1000,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,1186844.59,296565.69,207,2020," 1,433 "
+1001,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,1710541.92,1003971.09,222,2020," 4,522 "
+1002,no,Indirect Public/Utility,3,2,2,1,Ontario,no,Blue,no,N,26,Type 2,203986.33,134382.93,274,2020, 490 
+1003,no,Private Sector,2,1,2,1,Quebec,no,Red,yes,N,13,Type 1,-1890406.34,83333.33,0,2020, -   
+1004,no,Public Sector,1,1,1,1,Ontario,no,Blue,no,N,21,Type 3,401149.39,170084.82,244,2020, 697 
+1005,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,88885.1,287225.49,729,2020, 394 
+1006,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,71805.85,131134.58,172,2020, 762 
+1007,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,99170.48,-659817.82,2556,2020,-258 
+1008,no,Private Sector,2,1,1,1,Ontario,no,Blue,no,N,26,Type 3,166212.37,135662.41,729,2020, 186 
+1009,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,181262.43,281427.28,189,2020," 1,489 "
+1010,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,85133.29,83435.54,729,2020, 114 
+1011,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,90342.04,49469.71,729,2020, 68 
+1012,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,36239.32,83915.44,729,2020, 115 
+1013,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,100032.86,583425.64,182,2020," 3,206 "
+1014,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,1223252.56,863684.09,186,2020," 4,643 "
+1015,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,61877.96,119458.36,729,2020, 164 
+1016,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,52904.29,49809.82,729,2020, 68 
+1017,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,301724.61,1061848.71,505,2020," 2,103 "
+1018,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,44492.13,4111.63,244,2020, 17 
+1019,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,77047.55,49212.79,729,2020, 68 
+1020,no,Private Sector,2,1,1,2,Alberta,no,Red,yes,N,1,Type 1,92055.84,16709.39,0,2020, -   
+1021,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,-5020.19,-5429.03,198,2020,-27 
+1022,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,105537.92,91034.59,292,2020, 312 
+1023,no,Public Sector,2,2,1,3,Saskatchewan,no,Red,no,N,6,Type 3,2158.54,0,0,2020, -   
+1024,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,yes,N,13,Type 1,84799.18,58982.22,729,2020, 81 
+1025,no,Private Sector,2,1,2,1,Quebec,no,Red,yes,N,1,Type 2,0,81986.01,0,2020, -   
+1026,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,385023.64,197114.38,194,2020," 1,016 "
+1027,no,Private Sector,2,1,2,1,Quebec,no,Red,yes,N,13,Type 1,77512.98,42755.96,213,2020, 201 
+1028,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,247438.7,-765366.34,2191,2020,-349 
+1029,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 1,212063.19,152882.01,161,2020, 950 
+1030,no,Private Sector,2,1,1,1,British Columbia,no,Red,yes,N,1,Type 2,0,1645665.18,0,2020, -   
+1031,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-598012.67,929928.35,416,2020," 2,235 "
+1032,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,116378.66,36798.88,364,2020, 101 
+1033,no,Private Sector,3,2,1,1,Ontario,no,Red,no,N,12,Type 2,10708580.81,6378126.01,554,2020," 11,513 "
+1034,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,14,Type 3,820176.31,957927.38,185,2020," 5,178 "
+1035,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,163693.12,16515.87,729,2020, 23 
+1036,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,945422.93,841511.92,389,2020," 2,163 "
+1037,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,542707.08,184934.6,130,2020," 1,423 "
+1038,no,Private Sector,2,1,1,1,Ontario,no,Blue,no,N,26,Type 3,129977.25,185074.38,729,2020, 254 
+1039,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,-176326.72,0,729,2020, -   
+1040,no,Private Sector,3,2,1,1,Ontario,no,Orange,no,N,2,Type 2,137072.91,-726978.29,0,2020, -   
+1041,no,Private Sector,1,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,179005.21,302674.99,54,2020," 5,605 "
+1042,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,-3634.5,0,364,2020, -   
+1043,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,236721.79,133040.05,149,2020, 893 
+1044,no,Indirect Public/Utility,2,1,2,2,Ontario,no,Blue,no,N,27,Type 3,491470.42,246703.38,364,2020, 678 
+1045,no,Private Sector,1,1,2,1,Ontario,no,Yellow,yes,N,7,Type 1,57459.25,26785,532,2020, 50 
+1046,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,275365.24,0,364,2020, -   
+1047,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,84360.79,-149778.93,729,2020,-205 
+1048,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,-78807.6,119157,144,2020, 827 
+1049,no,Private Sector,3,1,1,1,Ontario,no,Red,no,N,12,Type 1,295558.14,119975,156,2021, 769 
+1050,no,Private Sector,2,1,1,1,Quebec,no,Red,yes,N,1,Type 2,158761.42,0,1986,2020, -   
+1051,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,183842.54,193504.2,161,2020," 1,202 "
+1052,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,991225.61,1025507.17,130,2020," 7,889 "
+1053,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,-72155.59,351599.34,132,2020," 2,664 "
+1054,no,Indirect Public/Utility,2,1,1,3,Saskatchewan,yes,Red,no,N,6,Type 1,1827248.34,1385465,0,2020, -   
+1055,no,Public Sector,3,2,1,1,South Carolina,no,Orange,yes,N,2,Type 1,93524.58,0,0,2020, -   
+1056,no,Indirect Public/Utility,3,2,2,1,Ontario,no,Blue,no,N,26,Type 2,97104.65,71759.13,729,2020, 98 
+1057,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,276179.92,126729.28,143,2020, 886 
+1058,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-2988427.97,1234460.4,416,2020," 2,967 "
+1059,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,76477.35,0,729,2020, -   
+1060,no,Public Sector,2,1,2,1,Ontario,no,Green,no,N,14,Type 3,338044.21,121532.16,141,2020, 862 
+1061,no,Private Sector,2,1,1,1,Alberta,no,Red,yes,N,1,Type 1,2302428.11,933563.32,0,2020, -   
+1062,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,359842.49,503086.38,729,2020, 690 
+1063,no,Public Sector,3,1,2,1,Ontario,no,Green,no,N,14,Type 3,186399.07,1188723.95,141,2020," 8,431 "
+1064,no,Indirect Public/Utility,2,2,1,2,Alberta,no,Blue,yes,N,13,Type 2,617425.86,318898.54,729,2020, 437 
+1065,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,-181310.26,130853.77,122,2020," 1,073 "
+1066,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,-69560.6,67623.14,112,2020, 604 
+1067,no,Private Sector,3,2,3,1,Ontario,no,Yellow,yes,N,7,Type 2,-263785.24,152951.71,128,2020," 1,195 "
+1068,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,yes,N,22,Type 3,73057.87,-113918.95,364,2020,-313 
+1069,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,13,Type 3,1053005.51,1998500.13,729,2020," 2,741 "
+1070,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,-1896782.14,-42647.52,2191,2020,-19 
+1071,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,13,Type 2,-55096.43,1844614,729,2020," 2,530 "
+1072,no,Private Sector,2,1,1,1,Ontario,no,Yellow,no,N,17,Type 3,538244.51,126779.45,354,2020, 358 
+1073,no,Indirect Public/Utility,2,1,2,1,International,no,Blue,no,N,27,Type 3,115741.25,109831.34,729,2020, 151 
+1074,no,Private Sector,3,2,2,3,Ontario,no,Red,no,N,13,Type 2,0,281414.46,486,2020, 579 
+1075,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,777139.85,465816.12,480,2020, 970 
+1076,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,3565605.52,1357984.24,446,2020," 3,045 "
+1077,no,Private Sector,1,1,1,1,Florida,no,Orange,no,N,3,Type 1,1080118.76,-4361198.25,0,2020, -   
+1078,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,284386.53,-2266879.37,2191,2020,"-1,035 "
+1079,no,Private Sector,2,1,1,1,Ontario,no,Blue,no,N,26,Type 3,110708.79,148375.15,729,2020, 204 
+1080,no,Public Sector,3,1,2,1,British Columbia,no,Green,yes,N,14,Type 3,536941.75,195114.89,465,2020, 420 
+1081,no,Public Sector,5,1,2,1,Ontario,no,Green,no,N,14,Type 3,3559422.37,1461155.91,465,2020," 3,142 "
+1082,no,Public Sector,5,1,1,1,Ontario,no,Green,no,N,14,Type 1,-1853451.75,111926.44,465,2020, 241 
+1083,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,104336.87,47106.33,364,2020, 129 
+1084,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,N,27,Type 3,124678.51,121733.61,729,2020, 167 
+1085,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,N,27,Type 3,319040.91,184465.89,729,2020, 253 
+1086,no,Indirect Public/Utility,2,1,2,1,Yukon Territory,no,Blue,no,N,27,Type 3,464966.79,399604.38,729,2020, 548 
+1087,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,381749.36,347031.58,729,2020, 476 
+1088,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,No Type,0,37761.06,729,2020, 52 
+1089,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,308965.39,289895.12,729,2020, 398 
+1090,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,20398.85,17394.84,364,2020, 48 
+1091,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,364721,350771.56,475,2020, 738 
+1092,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,120020.39,78914.19,404,2020, 195 
+1093,yes,Public Sector,4,2,1,3,British Columbia,yes,Green,no,N,7,Type 2,78159658.63,69470677.53,1917,2020," 36,239 "
+1094,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,N,21,Type 3,3985324.88,4467790.73,971,2020," 4,601 "
+1095,no,Public Sector,2,1,2,1,Ontario,no,Blue,no,N,23,Type 2,71644.4,34011.59,729,2020, 47 
+1096,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,Y,23,Type 3,126287.11,69600.47,729,2020, 95 
+1097,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,59354.76,-299373.99,0,2020, -   
+1098,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,63470.06,0,0,2020, -   
+1099,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,Y,23,Type 3,73116.44,57672.96,364,2020, 158 
+1100,no,Private Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-92753.19,387.59,233,2020, 2 
+1101,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,78032.1,36026.21,729,2020, 49 
+1102,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,127763.04,68723.41,729,2020, 94 
+1103,no,Indirect Public/Utility,2,1,1,2,Manitoba,no,Blue,no,Y,23,Type 1,118638.83,181991,729,2020, 250 
+1104,no,Indirect Public/Utility,2,1,1,2,Manitoba,no,Blue,no,Y,23,Type 1,49295.7,125467,729,2020, 172 
+1105,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,Y,23,Type 3,86346.14,29623.79,729,2020, 41 
+1106,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,470550.91,327981.5,333,2021, 985 
+1107,no,Private Sector,2,1,1,1,Ontario,no,Blue,no,N,26,Type 2,181002.82,69002,729,2020, 95 
+1108,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,36983.19,27459.7,729,2020, 38 
+1109,no,Public Sector,2,1,2,1,Saskatchewan,no,Green,no,N,7,Type 3,1073339.72,621854.29,371,2020," 1,676 "
+1110,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,158403.66,68822.42,361,2021, 191 
+1111,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,17,Type 3,484264.73,305626.64,298,2021," 1,026 "
+1112,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,Y,23,Type 3,-45474.53,7889.98,361,2021, 22 
+1113,no,Private Sector,3,2,2,1,Ontario,no,Blue,no,N,26,Type 3,79449.76,40732.14,361,2021, 113 
+1114,no,Indirect Public/Utility,3,1,2,1,Ontario,no,Blue,no,Y,23,Type 3,41394.69,24532.99,361,2021, 68 
+1115,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,Y,23,Type 3,-9829.36,15426.11,361,2021, 43 
+1116,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,364157.88,306889.44,361,2021, 850 
+1117,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,33072.21,-102004.07,364,2021,-280 
+1118,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,165755.93,-244526.85,364,2021,-672 
+1119,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,54860.37,59407.7,361,2021, 165 
+1120,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,Y,23,Type 3,18413.6,11469.08,361,2021, 32 
+1121,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,15,Type 3,-38318.02,-12437603.15,364,2021,"-34,169 "
+1122,no,Private Sector,2,1,1,2,Alberta,no,Red,no,N,1,Type 2,337806.02,-150476.33,0,2021, -   
+1123,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,22,Type 3,743146.59,1426738.28,361,2021," 3,952 "
+1124,no,Indirect Public/Utility,3,2,2,1,Ontario,no,Blue,no,N,26,Type 2,51786.84,165958.48,361,2021, 460 
+1125,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,172162.97,589592,361,2021," 1,633 "
+1126,no,Public Sector,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,39590.66,194221,361,2021, 538 
+1127,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,331145.55,643488,579,2021," 1,111 "
+1128,no,Indirect Public/Utility,1,1,1,2,Ontario,no,Blue,no,Y,13,Type 1,6535477.98,45054428,725,2021," 62,144 "
+1129,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,13,Type 2,-241854.03,3000000,361,2021," 8,310 "
+1130,no,Private Sector,2,1,1,1,Alberta,no,Red,no,N,1,Type 2,129764.71,21415.31,0,2021, -   
+1131,no,Public Sector,2,1,2,1,Saskatchewan,no,Green,yes,N,7,Type 3,298693.09,367478.23,299,2021," 1,229 "
+1132,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,23,Type 3,45653.13,43180.67,725,2021, 60 
+1133,yes,Indirect Public/Utility,2,1,1,3,Ontario,no,Blue,no,N,26,Type 3,663729.95,125556.08,725,2021, 173 
+1134,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,N,3,Type 1,-12865.77,49030,2190,2021, 22 
+1135,no,Public Sector,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,42477.08,97344,361,2021, 270 
+1136,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,10,Type 3,187580.71,439582.74,252,2021," 1,744 "
+1137,no,Public Sector,4,1,1,3,Ontario,no,Yellow,no,N,17,Type 3,2661192.48,1621233.83,952,2021," 1,703 "
+1138,no,Public Sector,3,2,1,3,Manitoba,no,Blue,no,N,23,Type 2,-1357.7,0.05,361,2021, 0 
+1139,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,-17167.24,44962.02,2190,2021, 21 
+1140,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,23,Type 2,-1873.7,17332.46,361,2021, 48 
+1141,no,Public Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,-65734.59,0,0,2021, -   
+1142,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,22,Type 1,-153999.01,116684.54,361,2021, 323 
+1143,no,Indirect Public/Utility,2,1,1,2,Northwest Terr.,no,Blue,no,N,27,Type 2,396802.04,540624.69,361,2021," 1,498 "
+1144,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,23,Type 3,19626.86,17121.69,361,2021, 47 
+1145,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,23,Type 3,-16586.81,26205.73,361,2021, 73 
+1146,no,Private Sector,3,2,2,1,Ontario,no,Yellow,no,N,17,Type 2,-24748.56,115147.75,176,2021, 654 
+1147,no,Public Sector,2,2,1,3,Ontario,no,Blue,no,N,23,Type 2,185851.28,318806.8,361,2021, 883 
+1148,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,235494.74,112292.85,361,2021, 311 
+1149,no,Private Sector,3,2,2,1,Ontario,no,Yellow,no,N,7,Type 2,700000.77,211502.27,844,2021, 251 
+1150,no,Public Sector,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,-558.24,85000,361,2021, 235 
+1151,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,23,Type 3,2578.06,4270.19,361,2021, 12 
+1152,no,Private Sector,2,2,2,1,British Columbia,no,Blue,no,N,27,Type 2,474919.71,11520634.93,361,2021," 31,913 "
+1153,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,122512.35,224357.59,250,2021, 897 
+1154,no,Indirect Public/Utility,2,2,1,2,Ontario,no,Blue,no,N,23,Type 2,130261.78,1832628.06,451,2021," 4,063 "
+1155,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,23,Type 3,-163921.49,92619.32,361,2021, 257 
+1156,no,Public Sector,2,1,1,1,Alberta,no,Green,yes,N,7,Type 3,859185.93,379957.08,251,2021," 1,514 "
+1157,no,Public Sector,2,1,1,1,Ontario,no,Yellow,yes,N,7,Type 3,-49053.77,56847.41,269,2021, 211 
+1158,no,Private Sector,3,2,2,2,Ontario,no,Orange,no,Y,3,Type 2,259740.74,119450.2,0,2021, -   
+1159,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,62373,280818.19,237,2021," 1,185 "
+1160,no,Private Sector,1,1,2,1,Ontario,no,Yellow,no,N,7,Type 3,2227.66,25469.43,639,2021, 40 
+1161,no,Indirect Public/Utility,3,1,2,2,Ontario,no,Blue,no,N,23,Type 2,15107.35,10677,361,2021, 30 
+1162,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,558235.63,264689.23,223,2021," 1,187 "
+1163,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,23,Type 3,23657.24,13543.85,361,2021, 38 
+1164,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,316089.06,325586.66,217,2021," 1,500 "
+1165,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,51815.57,82446.68,124,2021, 665 
+1166,no,Indirect Public/Utility,2,2,3,1,Ontario,no,Blue,no,N,26,Type 2,-15365.52,17754.27,361,2021, 49 
+1167,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,982607.45,409218.54,216,2021," 1,895 "
+1168,yes,Public Sector,5,2,1,5,Ontario,yes,Indigo,no,N,15,Type 2,207360898.5,47799481.09,941,2021," 50,796 "
+1169,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,52475.31,3007.98,1824,2021, 2 
+1170,no,Public Sector,3,1,2,1,Alberta,no,Green,no,N,7,Type 3,-12923.36,18485.68,88,2021, 210 
+1171,no,Public Sector,3,1,2,1,Alberta,no,Green,no,N,7,Type 3,-10942.89,28630.37,123,2021, 233 
+1172,no,Public Sector,3,1,2,1,Alberta,no,Green,no,N,7,Type 3,-20104.65,17544.51,121,2021, 145 
+1173,no,Private Sector,2,1,2,1,Ontario,no,Blue,no,N,27,Type 3,697816.89,2058004.03,361,2021," 5,701 "
+1174,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,23,Type 3,191181.55,45845.82,361,2021, 127 
+1175,no,Indirect Public/Utility,2,2,1,2,Ontario,no,Blue,no,N,23,Type 2,39014.74,11443.71,361,2021, 32 
+1176,no,Indirect Public/Utility,2,2,1,1,Ontario,no,Blue,no,N,23,Type 2,15758.85,10152.28,361,2021, 28 
+1177,no,Indirect Public/Utility,2,1,1,2,Manitoba,no,Blue,no,N,21,Type 1,105096.53,275662.76,361,2021, 764 
+1178,no,Indirect Public/Utility,2,1,1,2,Manitoba,no,Blue,no,N,21,Type 1,6600.97,3677.83,361,2021, 10 
+1179,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,22,Type 3,80467.22,38283.81,361,2021, 106 
+1180,no,Private Sector,2,1,2,1,Ontario,no,Yellow,no,N,7,Type 3,17897.22,42123.24,1060,2021, 40 
+1181,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,23048.03,152172.92,361,2021, 422 
+1182,no,Public Sector,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,177559.14,95392.58,234,2021, 408 
+1183,no,Private Sector,3,1,2,1,Ontario,yes,Yellow,no,N,15,Type 3,34163.03,650451.95,456,2021," 1,426 "
+1184,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,-63953.25,200001.74,202,2021, 990 
+1185,no,Private Sector,2,1,1,3,Alberta,no,Red,yes,N,1,Type 1,42924.62,25428,0,2021, -   
+1186,no,Indirect Public/Utility,3,2,2,1,Ontario,no,Blue,no,N,26,Type 2,258483.56,92256.2,361,2021, 256 
+1187,no,Private Sector,2,1,1,1,Alberta,no,Red,no,N,1,Type 2,-885752.12,43878.5,0,2021, -   
+1188,no,Private Sector,2,1,3,1,Ontario,no,Yellow,no,N,7,Type 3,-44783.83,236154.61,571,2021, 414 
+1189,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,21,Type 3,295731.02,215673.19,725,2021, 297 
+1190,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,36481.25,26115.39,122,2021, 214 
+1191,no,Private Sector,3,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,-143441.71,-4892945.61,0,2021, -   
+1192,no,Private Sector,3,2,2,1,Tennessee,no,Orange,no,N,3,Type 1,481236.56,0,0,2021, -   
+1193,no,Private Sector,4,1,1,1,Ontario,no,Red,no,N,13,Type 1,2088598.65,662069.27,426,2021," 1,554 "
+1194,no,Private Sector,1,1,1,3,Ontario,no,Yellow,no,N,7,Type 3,19668.57,40832.26,606,2021, 67 
+1195,no,Indirect Public/Utility,2,2,1,1,Ontario,no,Blue,no,N,23,Type 2,0,11909.88,361,2021, 33 
+1196,no,Public Sector,3,1,1,1,Ontario,no,Green,no,N,14,Type 1,164171.93,108202.05,214,2021, 506 
+1197,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,98470.39,308559.62,151,2021," 2,043 "
+1198,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,134044.15,176713.91,188,2021, 940 
+1199,no,Private Sector,2,1,1,3,Alberta,no,Red,no,N,1,Type 2,-2056485.88,14029.17,0,2021, -   
+1200,no,Indirect Public/Utility,2,1,2,2,Manitoba,no,Blue,no,N,21,Type 1,27501.35,12499.87,360,2021, 35 
+1201,no,Indirect Public/Utility,2,1,1,2,Manitoba,no,Blue,no,N,21,Type 1,318759.59,254520.81,361,2021, 705 
+1202,no,Private Sector,3,2,2,1,Ontario,no,Yellow,no,N,7,Type 2,215278.87,155194.01,115,2021," 1,350 "
+1203,no,Indirect Public/Utility,1,2,1,2,Ontario,no,Blue,no,N,21,Type 2,-52089.73,-0.45,361,2021,-0 
+1204,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,-148872.62,19210.11,156,2021, 123 
+1205,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,no,N,7,Type 3,-1038513.79,1028281.88,172,2021," 5,978 "
+1206,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,138096.7,382069.34,472,2021, 809 
+1207,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,23,Type 3,296035.89,40758.69,361,2021, 113 
+1208,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-399652.55,193149.88,757,2021, 255 
+1209,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-270727.58,126301,120,2021," 1,053 "
+1210,no,Public Sector,2,2,1,3,Oregon,no,Red,no,N,6,Type 2,1335209.75,945767,0,2021, -   
+1211,no,Private Sector,1,2,2,3,Oregon,no,Red,no,N,6,Type 1,430210.53,120460,0,2021, -   
+1212,yes,Public Sector,3,2,1,3,Manitoba,no,Red,no,N,6,Type 2,9881033.97,54122047.48,0,2021, -   
+1213,no,Public Sector,1,2,1,3,Manitoba,no,Red,no,N,6,Type 1,-503393.43,0,0,2021, -   
+1214,no,Indirect Public/Utility,3,1,1,1,Ontario,no,Blue,no,N,26,Type 3,-69204.38,70265.19,360,2021, 195 
+1215,no,Indirect Public/Utility,2,1,1,1,Alberta,no,Blue,no,N,27,Type 3,598692.74,536886.35,360,2021," 1,491 "
+1216,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,194128.55,76218.11,86,2021, 886 
+1217,no,Public Sector,3,1,2,1,Alberta,no,Green,no,N,7,Type 3,5335.08,24518.5,419,2021, 59 
+1218,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,33364.9,18535.64,0,2021, -   
+1219,no,Indirect Public/Utility,2,1,2,1,Ontario,no,Blue,no,N,27,Type 3,294706.11,182500.3,360,2021, 507 
+1220,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,-98332.09,58088.76,0,2021, -   
+1221,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-59712.28,202615.72,367,2021, 552 
+1222,no,Indirect Public/Utility,2,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,23441.05,23485.54,361,2021, 65 
+1223,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,150964.76,57877.98,361,2021, 160 
+1224,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,-218448.83,175280.37,80,2021," 2,191 "
+1225,no,Private Sector,3,1,3,1,Ontario,no,Yellow,no,N,7,Type 3,-182352.99,258322.91,29,2021," 8,908 "
+1226,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,13564.8,26990.45,396,2021, 68 
+1227,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,114459.9,27132.46,425,2021, 64 
+1228,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,0,35294.32,121,2021, 292 
+1229,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,776462.81,616610.25,126,2021," 4,894 "
+1230,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,374131.1,93149.92,78,2021," 1,194 "
+1231,no,Indirect Public/Utility,2,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,62236.4,88815.67,725,2021, 123 
+1232,no,Public Sector,3,1,2,1,British Columbia,no,Green,no,N,14,Type 2,1639400.48,2709202.6,729,2021," 3,716 "
+1233,no,Indirect Public/Utility,2,2,1,2,Ontario,no,Blue,no,N,23,Type 2,33500.84,14268.9,361,2021, 40 
+1234,no,Private Sector,3,1,1,1,Ontario,no,Red,no,N,12,Type 1,474624.49,-548637.32,0,2021, -   
+1235,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,23,Type 3,1410804.43,322633.43,726,2021, 444 
+1236,no,Private Sector,3,1,2,1,Ontario,no,Yellow,no,N,7,Type 3,130354.39,103510.9,129,2021, 802 
+1237,no,Indirect Public/Utility,2,2,1,1,Ontario,no,Blue,no,N,13,Type 2,476798.71,-2711145.2,361,2021,"-7,510 "
+1238,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,59304.33,108597.74,66,2021," 1,645 "
+1239,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,-18294.72,133339.47,812,2021, 164 
+1240,no,Public Sector,2,2,2,1,Alberta,no,Green,no,N,7,Type 3,-21182.11,87717.97,48,2021," 1,827 "
+1241,no,Public Sector,2,1,2,1,Alberta,no,Green,yes,N,7,Type 3,579474.52,446458.89,111,2021," 4,022 "
+1242,no,Indirect Public/Utility,2,2,1,1,Ontario,no,Blue,no,N,27,Type 2,165271.35,-24540.54,361,2021,-68 
+1243,no,Indirect Public/Utility,2,2,2,1,British Columbia,no,Blue,no,N,26,Type 2,49340.38,9218.41,361,2021, 26 
+1244,no,Public Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-102432.19,76907.18,70,2021," 1,099 "
+1245,no,Indirect Public/Utility,2,2,1,2,Ontario,no,Blue,no,N,23,Type 2,100761.04,118633.17,361,2021, 329 
+1246,no,Private Sector,3,2,1,1,Alberta,no,Red,no,N,13,Type 2,136556.8,104184,0,2021, -   
+1247,no,Public Sector,3,1,2,1,Alberta,no,Green,yes,N,7,Type 3,0,25141.18,37,2021, 679 
+1248,no,Public Sector,2,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,2216.35,243352.35,319,2021, 763 
+1249,no,Indirect Public/Utility,1,2,1,1,Ontario,no,Blue,no,N,23,Type 1,39433.9,280659,361,2021, 777 
+1250,no,Indirect Public/Utility,1,2,1,1,Ontario,no,Blue,no,N,23,Type 1,-72465.72,186188.11,361,2021, 516 
+1251,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,73095.73,26182.93,361,2021, 73 
+1252,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,20077.25,10027,361,2021, 28 
+1253,no,Indirect Public/Utility,2,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,42429.39,31957.95,361,2021, 89 
+1254,no,Private Sector,3,2,2,1,Ontario,no,Orange,no,N,2,Type 2,106302.58,-842732.07,0,2021, -   
+1255,no,Indirect Public/Utility,3,2,1,1,Alberta,no,Blue,no,N,23,Type 2,2163243.82,5325219.77,361,2021," 14,751 "
+1256,no,Private Sector,3,2,1,1,Alberta,no,Red,no,N,13,Type 2,272514.89,653853.94,0,2021, -   
+1257,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,345683.26,1196627.3,457,2021," 2,618 "
+1258,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,94199.61,41366.35,103,2021, 402 
+1259,no,Indirect Public/Utility,1,1,1,2,Ontario,no,Blue,no,N,23,Type 3,-66744.29,-169311.75,361,2021,-469 
+1260,no,Private Sector,2,1,2,1,Ontario,no,Yellow,no,N,7,Type 3,151266.16,194244.64,268,2021, 725 
+1261,no,Private Sector,2,1,2,1,Ontario,no,Yellow,no,N,7,Type 3,0,-1569625.63,273,2021,"-5,750 "
+1262,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,932593.55,500471.38,457,2021," 1,095 "
+1263,no,Indirect Public/Utility,3,3,1,1,Ontario,no,Blue,no,N,26,Type 1,-144565.92,136621.67,361,2021, 378 
+1264,no,Indirect Public/Utility,2,2,1,2,Ontario,no,Blue,no,N,22,Type 2,-7370.8,-168999.19,361,2021,-468 
+1265,no,Public Sector,3,1,2,1,British Columbia,no,Green,no,N,14,Type 1,-1232177.97,149241.91,1094,2021, 136 
+1266,no,Indirect Public/Utility,1,2,1,2,Ontario,no,Blue,no,N,23,Type 2,43882.85,33255.18,361,2021, 92 
+1267,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,46662.83,15822,74,2021, 214 
+1268,no,Public Sector,3,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,1532795.85,1789730.92,1038,2021," 1,724 "
+1269,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,-123545.28,89091.82,440,2021, 202 
+1270,no,Private Sector,2,1,2,1,Ontario,no,Yellow,no,N,7,Type 3,-176021.84,646746.2,395,2021," 1,637 "
+1271,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,64126.13,-65798.89,361,2021,-182 
+1272,yes,Private Sector,1,1,1,3,Ontario,no,Orange,no,N,3,Type 1,4513795.68,0,0,2021, -   
+1273,no,Private Sector,1,2,1,2,Alberta,no,Red,no,N,1,Type 2,121906.11,39513.76,0,2021, -   
+1274,no,Private Sector,3,2,2,1,Maryland,no,Orange,no,N,3,Type 1,-158583.16,0,0,2021, -   
+1275,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,-972660.48,-11573381.57,2190,2021,"-5,285 "
+1276,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,14,Type 2,-127680.39,-872928.52,729,2021,"-1,197 "
+1277,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,-468782.44,56573.89,0,2021, -   
+1278,no,Public Sector,3,1,2,1,Alberta,no,Green,no,N,7,Type 3,60509.41,126778.53,56,2021," 2,264 "
+1279,no,Public Sector,3,1,2,1,Alberta,no,Green,no,N,7,Type 3,15022.29,205517.75,267,2021, 770 
+1280,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,25260.81,28245.06,364,2021, 78 
+1281,no,Private Sector,3,3,2,1,Louisiana,no,Orange,no,N,3,Type 1,-6477.95,0,0,2021, -   
+1282,no,Private Sector,2,2,2,1,Ontario,no,Yellow,no,N,7,Type 2,-295349.61,133868.04,356,2021, 376 
+1283,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,65045.21,98960.06,361,2021, 274 
+1284,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,123974.42,157563.84,361,2021, 436 
+1285,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,49304.3,25940.1,361,2021, 72 
+1286,no,Private Sector,1,2,1,2,Alberta,no,Red,no,N,1,Type 2,1141.21,2317.69,0,2021, -   
+1287,no,Private Sector,3,2,1,1,Manitoba,no,Red,no,N,13,Type 2,668036.34,603866.61,0,2021, -   
+1288,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,27,Type 3,234971.39,85371.97,729,2021, 117 
+1289,no,Indirect Public/Utility,1,2,1,2,Ontario,no,Blue,no,N,23,Type 2,23510.24,22695.4,361,2021, 63 
+1290,no,Indirect Public/Utility,1,2,1,2,Ontario,no,Blue,no,N,23,Type 2,-8652.09,32414.74,361,2021, 90 
+1291,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,12,Type 2,9401.51,9718,0,2021, -   
+1292,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,-98048.95,223744.36,248,2021, 902 
+1293,no,Indirect Public/Utility,2,2,2,1,Alberta,no,Blue,no,N,21,Type 2,-695825.44,-3944384.8,725,2021,"-5,441 "
+1294,no,Private Sector,3,1,2,1,Tennessee,no,Orange,no,N,3,Type 1,2221964.08,0,0,2021, -   
+1295,no,Indirect Public/Utility,3,2,2,1,Alberta,no,Blue,no,N,26,Type 2,-16913.55,-342658.84,361,2021,-949 
+1296,no,Public Sector,4,1,2,1,Alberta,no,Green,no,N,14,Type 2,-2255495.57,584630.9,729,2021, 802 
+1297,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,N,23,Type 1,10918.48,13783.3,725,2021, 19 
+1298,yes,Indirect Public/Utility,2,2,1,1,Ontario,no,Blue,no,N,25,Type 2,-349798.07,135279.69,729,2021, 186 
+1299,no,Public Sector,4,2,1,1,British Columbia,no,Green,no,N,16,Type 2,25162149.58,41396132,1524,2021," 27,163 "
+1300,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,-356.88,31574,0,2021, -   
+1301,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,no,N,7,Type 3,-811874.22,1498403.44,383,2021," 3,912 "
+1302,no,Private Sector,3,2,1,3,Alberta,no,Red,no,N,1,Type 2,-863524.58,928336,0,2021, -   
+1303,no,Public Sector,2,1,2,1,Ontario,no,Green,no,N,14,Type 1,-52067.92,-3340885.24,1094,2021,"-3,054 "
+1304,no,Private Sector,2,1,1,3,Ontario,no,Orange,no,N,3,Type 1,79850.95,0,0,2021, -   
+1305,no,Private Sector,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,22903.98,0,725,2021, -   
+1306,no,Private Sector,1,1,2,1,Ontario,no,Yellow,no,N,7,Type 3,-15752.68,5504199.59,975,2021," 5,645 "
+1307,no,Indirect Public/Utility,1,2,1,2,Ontario,no,Blue,no,N,23,Type 2,49833.07,33088.81,725,2021, 46 
+1308,no,Indirect Public/Utility,3,2,2,1,Ontario,no,Blue,no,N,26,Type 2,-533409.42,-1415489,725,2021,"-1,952 "
+1309,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,11336.9,7290,0,2021, -   
+1310,no,Private Sector,2,1,1,1,Alberta,no,Red,no,N,1,Type 1,128313.55,11859.41,0,2021, -   
+1311,no,Private Sector,2,1,2,1,Ontario,no,Yellow,no,N,7,Type 3,21881.48,242075.81,560,2021, 432 
+1312,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,12,Type 2,37919.13,16078.76,0,2021, -   
+1313,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,12,Type 2,19342.11,9758.92,0,2021, -   
+1314,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,no,N,7,Type 3,-167090.43,211982.08,372,2021, 570 
+1315,no,Public Sector,2,1,2,1,Manitoba,no,Green,no,N,14,Type 2,-669023.95,-5760047.12,729,2021,"-7,901 "
+1316,no,Private Sector,1,1,1,2,Ontario,no,Orange,no,Y,3,Type 1,3147.62,5506,0,2021, -   
+1317,no,Indirect Public/Utility,2,1,1,1,Ontario,no,Blue,no,N,13,Type 1,102520.56,-61235987.39,729,2021,"-84,000 "
+1318,no,Private Sector,1,2,3,1,Ontario,no,Yellow,no,N,17,Type 2,-941743.7,245214.02,198,2022," 1,238 "
+1319,no,Public Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-825588.74,791528.21,640,2022," 1,237 "
+1320,no,Public Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-709303.19,2081373.48,1017,2022," 2,047 "
+1321,no,Public Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,0,71363.05,140,2022, 510 
+1322,no,Public Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-1136623.11,404343.29,188,2022," 2,151 "
+1323,no,Public Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-848809.19,244037.56,161,2022," 1,516 "
+1324,no,Indirect Public/Utility,1,1,2,1,British Columbia,no,Red,no,N,6,Type 1,-9059.21,226292.46,0,2022, -   
+1325,no,Public Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-56748.49,612197.27,155,2022," 3,950 "
+1326,no,Private Sector,1,1,2,1,Ontario,no,Yellow,no,N,7,Type 3,-8044.45,430373.69,175,2022," 2,459 "
+1327,no,Private Sector,1,1,2,1,Ontario,no,Yellow,no,N,7,Type 3,-52430.33,3051196.51,339,2022," 9,001 "
+1328,no,Indirect Public/Utility,1,1,1,1,Ontario,no,Yellow,no,N,15,Type 1,-776456.11,318182,1135,2021, 280 
+1329,no,Private Sector,1,1,2,1,Ontario,no,Yellow,no,N,7,Type 1,-434140.31,185185,364,2022, 509 
+1330,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,no,N,7,Type 3,-47671.33,247979.87,356,2021, 697 
+1331,no,Private Sector,2,1,1,1,Alberta,no,Red,no,N,13,Type 1,638972.61,1363689.69,0,2021, -   
+1332,no,Public Sector,3,2,1,3,Manitoba,no,Green,no,N,17,Type 2,5149324.04,10422235.04,1457,2022," 7,153 "
+1333,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,63160.75,-756924.28,360,2022,"-2,103 "
+1334,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,22,Type 1,-1695234.63,-2406538.53,360,2022,"-6,685 "
+1335,no,Private Sector,3,2,2,1,Tennessee,no,Orange,no,N,3,Type 1,216646.9,0,0,2022, -   
+1336,no,Public Sector,2,1,1,1,Saskatchewan,no,Green,no,N,7,Type 3,-742259.36,695560.3,322,2022," 2,160 "
+1337,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,12,Type 2,-225796.99,25448.21,361,2022, 70 
+1338,no,Indirect Public/Utility,2,2,2,1,Ontario,no,Blue,no,N,26,Type 2,-159505.97,-912935.66,360,2022,"-2,536 "
+1339,no,Indirect Public/Utility,3,1,1,1,Ontario,no,Blue,no,N,21,Type 3,-148767.01,0,360,2022, -   
+1340,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,-5756.98,576196.39,320,2022," 1,801 "
+1341,no,Indirect Public/Utility,2,2,1,1,Ontario,no,Blue,no,N,26,Type 2,310582.23,-606849.23,360,2022,"-1,686 "
+1342,no,Indirect Public/Utility,2,2,2,1,Manitoba,no,Blue,no,N,21,Type 2,32967.15,0,360,2022, -   
+1343,no,Private Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,-25485.59,131075.34,178,2022, 736 
+1344,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,21,Type 3,-26682.24,-880854.38,360,2022,"-2,447 "
+1345,no,Private Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,-2027.56,184535.16,233,2022, 792 
+1346,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,10,Type 3,-131804.85,33900,364,2022, 93 
+1347,no,Private Sector,1,2,1,1,Ontario,no,Yellow,no,N,7,Type 3,5018.81,90910,360,2022, 253 
+1348,yes,Public Sector,3,2,1,1,British Columbia,yes,Green,no,N,17,Type 2,3982147.57,8695423.04,0,2022, -   
+1349,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,10424.34,-41742.13,724,2022,-58 
+1350,no,Private Sector,2,1,1,1,Alberta,no,Red,no,N,1,Type 2,-314439.41,749415.81,0,2022, -   
+1351,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,265916.74,-624643.4,360,2022,"-1,735 "
+1352,no,Public Sector,3,2,1,3,Washington,no,Yellow,no,N,7,Type 2,1762984.12,-112221218.5,2159,2022,"-51,978 "
+1353,no,Indirect Public/Utility,2,2,1,1,Manitoba,no,Blue,no,N,21,Type 2,-462031.7,0,360,2022, -   
+1354,no,Indirect Public/Utility,3,2,2,1,Ontario,no,Blue,no,N,26,Type 2,-1173,-1126092.01,360,2022,"-3,128 "
+1355,no,Indirect Public/Utility,2,2,1,1,British Columbia,no,Blue,no,N,21,Type 2,192877.52,-6860912.58,360,2022,"-19,058 "
+1356,no,Indirect Public/Utility,1,1,1,2,Manitoba,no,Blue,no,N,23,Type 1,667952.4,-1610965.64,360,2022,"-4,475 "
+1357,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,N,23,Type 1,-49728.76,-550887.97,360,2022,"-1,530 "
+1358,no,Private Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,0,17154.82,256,2022, 67 
+1359,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-41235.22,758339.54,490,2022," 1,548 "
+1360,no,Private Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,0,40320.82,155,2022, 260 
+1361,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,12,Type 2,-6950.52,25209,0,2022, -   
+1362,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,N,23,Type 2,-72687.5,-307257.89,360,2022,-853 
+1363,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-86816.9,994687.79,959,2022," 1,037 "
+1364,no,Private Sector,3,2,1,1,Saskatchewan,no,Red,no,N,5,Type 2,-93530.46,6129777.26,0,2022, -   
+1365,yes,Indirect Public/Utility,3,2,1,5,Quebec,no,Yellow,no,N,15,Type 2,13580502.37,22285825.35,2071,2022," 10,761 "
+1366,yes,Indirect Public/Utility,3,2,1,5,Quebec,no,Yellow,no,N,15,Type 2,0,-10473218.88,2047,2022,"-5,116 "
+1367,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,12,Type 2,-12537.59,16180,2188,2022, 7 
+1368,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,N,23,Type 1,-11839.65,-34245.39,360,2022,-95 
+1369,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-803098.68,2060624.02,729,2022," 2,827 "
+1370,no,Public Sector,5,2,1,6,Ontario,yes,Indigo,no,N,15,No Type,-288.04,0,-27012,2021, -   
+1371,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,N,23,Type 3,-425765.62,-1593473.46,360,2022,"-4,426 "
+1372,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,12,Type 2,-39970.94,-83120.42,2188,2022,-38 
+1373,no,Indirect Public/Utility,1,1,1,1,Ontario,no,Blue,no,N,13,Type 1,-92688.16,-3816217.33,360,2022,"-10,601 "
+1374,no,Indirect Public/Utility,1,2,2,1,Yukon Territory,no,Blue,no,N,26,Type 2,-47888.55,-88003,360,2022,-244 
+1375,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,N,27,Type 1,-75489.36,-505939.22,360,2022,"-1,405 "
+1376,no,Indirect Public/Utility,1,1,1,1,Ontario,no,Blue,no,N,13,Type 1,105259.52,-653542.14,360,2022,"-1,815 "
+1377,no,Indirect Public/Utility,1,1,1,1,Ontario,no,Blue,no,N,13,Type 1,151898.05,-633317.14,360,2022,"-1,759 "
+1378,no,Private Sector,1,1,1,1,Ontario,no,Red,no,N,1,Type 1,-194139.17,265552.36,304,2022, 874 
+1379,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,N,23,Type 1,-86229.86,-658384.65,360,2022,"-1,829 "
+1380,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,Y,27,Type 1,-1536052.99,-7602497.11,360,2022,"-21,118 "
+1381,no,Private Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,0,86049.91,105,2022, 820 
+1382,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,-1429.56,58091.35,153,2022, 380 
+1383,no,Public Sector,1,1,2,2,Ontario,no,Blue,no,Y,11,Type 1,-55188.57,-3046944.02,360,2022,"-8,464 "
+1384,no,Public Sector,1,1,2,2,Ontario,no,Blue,no,Y,11,Type 1,0,-2027649.05,360,2022,"-5,632 "
+1385,no,Indirect Public/Utility,2,1,1,2,Ontario,no,Blue,no,N,22,Type 1,0,-87818.09,360,2022,-244 
+1386,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,0,-112786.86,360,2022,-313 
+1387,no,Private Sector,3,1,2,1,Ontario,no,Orange,no,N,3,Type 1,-1071727.34,0,0,2022, -   
+1388,yes,Public Sector,3,1,1,6,Ontario,no,Indigo,no,N,15,Type 1,-59951082.74,0,-32610,2022, -   
+1389,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,2609.52,3117.82,2188,2022, 1 
+1390,no,Private Sector,1,1,1,1,Ontario,no,Yellow,no,N,7,Type 3,-92115.89,5018302,883,2022," 5,683 "
+1391,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,1984.6,-4176,2188,2022,-2 
+1392,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,0,70424.06,134,2022, 526 
+1393,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,0,40028.38,164,2022, 244 
+1394,no,Public Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,0,58235.95,194,2022, 300 
+1395,no,Public Sector,2,1,1,1,Manitoba,no,Blue,no,Y,27,Type 1,-47866.73,-2386524.48,360,2022,"-6,629 "
+1396,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,Y,27,Type 1,-371482.2,-1506422.8,360,2022,"-4,185 "
+1397,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,-84325.1,50679.14,54,2022, 939 
+1398,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,-5863.84,132887.84,1171,2021, 113 
+1399,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,-1354.21,143225.76,110,2022," 1,302 "
+1400,no,Public Sector,2,1,1,1,Alberta,no,Blue,no,Y,27,Type 1,-146731.79,-867835.95,360,2022,"-2,411 "
+1401,no,Indirect Public/Utility,1,2,1,1,Ontario,no,Blue,no,N,23,Type 2,-172000.7,-451104.07,360,2022,"-1,253 "
+1402,no,Private Sector,3,2,2,1,Utah,no,Orange,no,N,3,Type 1,-77544,-1669790.16,0,2022, -   
+1403,no,Private Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,0,22503.71,101,2022, 223 
+1404,no,Private Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,0,154963.04,150,2022," 1,033 "
+1405,no,Public Sector,1,1,1,1,Alberta,no,Green,no,N,7,Type 3,-84296.2,405793.95,163,2022," 2,490 "
+1406,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,13,Type 3,-25050.72,0,360,2022, -   
+1407,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,6,Type 2,-64436.96,12275,2069,2022, 6 
+1408,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,-13360.74,-200410.27,360,2022,-557 
+1409,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,-16334.5,-128955.43,360,2022,-358 
+1410,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,12,Type 2,4503,1873,0,2022, -   
+1411,no,Private Sector,1,1,2,1,Ontario,no,Blue,no,Y,23,Type 1,0,-587778.42,360,2022,"-1,633 "
+1412,no,Public Sector,2,1,1,1,Ontario,no,Blue,no,Y,27,Type 1,0,-198986.02,360,2022,-553 
+1413,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,-1053467.71,946828.8,198,2022," 4,782 "
+1414,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,-798.61,1250513.78,196,2022," 6,380 "
+1415,no,Private Sector,1,1,1,1,Alberta,no,Red,no,N,1,Type 1,-346587.96,21210.02,0,2022, -   
+1416,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,-206668.77,-1596953.29,360,2022,"-4,436 "
+1417,no,Private Sector,2,1,2,1,Alberta,no,Green,no,N,7,Type 3,-37410.7,136246.59,134,2022," 1,017 "
+1418,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,12,Type 2,16146.87,2800,0,2022, -   
+1419,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,-103815.94,-23458671.35,560,2022,"-41,890 "
+1420,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,N,23,Type 1,0,-212125.76,360,2022,-589 
+1421,no,Indirect Public/Utility,3,2,1,1,Ontario,no,Blue,no,N,26,Type 2,0,-335065.75,360,2022,-931 
+1422,no,Public Sector,2,1,1,1,Newfoundland & Labr.,no,Blue,no,N,27,Type 1,-34103.66,-566646.14,1091,2022,-519 
+1423,no,Public Sector,2,1,1,1,Alberta,no,Blue,no,N,27,Type 1,-2942.42,-2333686.54,1091,2022,"-2,139 "
+1424,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,12,Type 2,-533.81,810,2188,2022, 0 
+1425,no,Public Sector,2,1,1,1,Alberta,no,Green,no,N,7,Type 3,0,121302.44,147,2022, 825 
+1426,no,Private Sector,4,2,1,3,Ontario,no,Red,no,N,1,Type 2,-1370.04,-4774.24,2188,2022,-2 
+1427,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,N,23,Type 1,0,-238602.98,360,2022,-663 
+1428,no,Indirect Public/Utility,1,1,2,2,Ontario,no,Blue,no,Y,23,Type 1,0,-154987.89,360,2022,-431 
