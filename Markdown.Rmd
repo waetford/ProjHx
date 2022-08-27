@@ -34,7 +34,7 @@ The data set employed in this Individual Assignment represents data from Acme Mu
 Acme Inc. regularly enters into contracts to produce soundtracks for various clients. Each contract is segmented by a number of factors, and the executes projects for a range of clients. The projects are variable across multiple independent variables. One dependent variable, "Result" describes whether Acme Musical Sounds Inc. earned a lot of money (Big win), earned some money (win), broke even ( close enough) lost money (loss), or lost a lot of money (big loss) as a result of completing the agreed upon music production.
 
 | Variable          | Description                                                                                                                                                                                                                      |
-|----------------|--------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | Client Base       | Each project is associated with one of three different client types.                                                                                                                                                             |
 | Contract Type     | One of five different contract delivery frameworks employed during contract negotiation.                                                                                                                                         |
 | State             | The geographic region that the customer requires the project be delivered within.                                                                                                                                                |
@@ -67,14 +67,7 @@ Future analysis should be performed on a larger data set, should incorporate par
 
 ### Libraries
 
-```{if(!require(tidyverse)) install.packages("tidyverse", repos = "http://cran.us.r-project.org")}
-if(!require(caret)) install.packages("caret", repos = "http://cran.us.r-project.org")
-if(!require(readxl)) install.packages("readxl", repos = "http://cran.us.r-project.org")
-if(!require(rpart.plot)) install.packages("rpart.plot", repos = "http://cran.us.r-project.org")
-if(!require(randomForest)) install.packages("randomForest", repos = "http://cran.us.r-project.org")
-if(!require(doParallel)) install.packages("doParallel", repos = "http://cran.us.r-project.org")
-if(!require(naivebayes)) install.packages("naivebayes", repos = "http://cran.us.r-project.org")
-```
+`{if(!require(tidyverse)) install.packages("tidyverse", repos = "http://cran.us.r-project.org")} if(!require(caret)) install.packages("caret", repos = "http://cran.us.r-project.org") if(!require(readxl)) install.packages("readxl", repos = "http://cran.us.r-project.org") if(!require(rpart.plot)) install.packages("rpart.plot", repos = "http://cran.us.r-project.org") if(!require(randomForest)) install.packages("randomForest", repos = "http://cran.us.r-project.org") if(!require(doParallel)) install.packages("doParallel", repos = "http://cran.us.r-project.org") if(!require(naivebayes)) install.packages("naivebayes", repos = "http://cran.us.r-project.org")`
 
 ### Multi-core Processing
 
@@ -122,15 +115,12 @@ Train and test sets were created. 70% of data were allocated for training and th
 
 The data contains no NAs, and contains 1031 rows.
 
-```{na.s <- sapply(dat, {function(x) any(is.na(x))})}
-knitr::kable(na.s)
+\`\`\`{na.s \<- sapply(dat, {function(x) any(is.na(x))})} knitr::kable(na.s)
 
-#How many rows?
-nrow(dat)
-```
+#How many rows? nrow(dat)
 
-```{}
-```
+
+    ```{}
 
 ### Models
 
@@ -148,10 +138,8 @@ nrow(dat)
 
 ### Future Considerations
 
-Control prevalence
+An increased data sample size, especially to increase the number of samples prevalence
 
 Tune parameters
-
-Increase data sample size
 
 Ensemble
